@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2786ce56-8417-4fd5-a4dc-fcd9a4339515" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/datawarehouse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/CO2_Emissions_1960-2018.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/World Energy Consumption.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transform_co2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transform_wec.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/World Energy Consumption (limited).csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transform_co2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transform_co2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1708970669215</updated>
       <workItem from="1708970674637" duration="1959000" />
-      <workItem from="1709037016800" duration="12582000" />
+      <workItem from="1709037016800" duration="15329000" />
     </task>
     <servers />
   </component>
