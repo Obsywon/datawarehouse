@@ -1,0 +1,767 @@
+Index: output/CO2_Emissions_sortedByYearAndCountry.csv
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>Country,Year,Value\r\nGermany,1990,12.0266092332951\r\nGermany,1991,11.6526009432162\r\nGermany,1992,11.0729234271655\r\nGermany,1993,10.929642078711698\r\nGermany,1994,10.7542702118663\r\nGermany,1995,10.6894078557286\r\nGermany,1996,11.0205928398973\r\nGermany,1997,10.6162300373826\r\nGermany,1998,10.5200427631926\r\nGermany,1999,10.150396266184\r\nGermany,2000,10.0968832733247\r\nGermany,2001,10.2914483528674\r\nGermany,2002,10.1005600841669\r\nGermany,2003,10.1358011982818\r\nGermany,2004,9.9474939848219\r\nGermany,2005,9.72687792088563\r\nGermany,2006,9.88340709166992\r\nGermany,2007,9.52515567357219\r\nGermany,2008,9.615747987729211\r\nGermany,2009,8.9699549000494\r\nGermany,2010,9.451565374244302\r\nGermany,2011,9.29779081983736\r\nGermany,2012,9.449949924665368\r\nGermany,2013,9.64255894664068\r\nGermany,2014,9.10678232951564\r\nGermany,2015,9.08729093927033\r\nGermany,2016,9.0730063894536\r\nGermany,2017,8.85829369906254\r\nGermany,2018,8.55838981170216\r\nSpain,1961,1.74622171978822\r\nSpain,1962,1.93578153318373\r\nSpain,1963,1.87950931235422\r\nSpain,1964,2.03772525684378\r\nSpain,1965,2.22561019346008\r\nSpain,1966,2.40773570917425\r\nSpain,1967,2.64722755876329\r\nSpain,1968,2.93409753966508\r\nSpain,1969,2.89710186766242\r\nSpain,1970,3.4579698591709\r\nSpain,1971,3.75994979034019\r\nSpain,1972,4.190966866158241\r\nSpain,1973,4.440462955344151\r\nSpain,1974,4.8949886404547405\r\nSpain,1975,5.07985214456106\r\nSpain,1976,5.49129460300474\r\nSpain,1977,5.35894297593551\r\nSpain,1978,5.43859432352152\r\nSpain,1979,5.47831588706293\r\nSpain,1980,5.73477895392154\r\nSpain,1981,5.489822340222029\r\nSpain,1982,5.52588710812812\r\nSpain,1983,5.367036187315019\r\nSpain,1984,5.1904825375516905\r\nSpain,1985,5.23099848524203\r\nSpain,1986,4.93636135990336\r\nSpain,1987,4.93419319699474\r\nSpain,1988,5.1341107689725\r\nSpain,1989,5.837882861346331\r\nSpain,1990,5.53215372028976\r\nSpain,1991,5.702608833831509\r\nSpain,1992,5.93702104708182\r\nSpain,1993,5.54123493296531\r\nSpain,1994,5.77661574566992\r\nSpain,1995,6.0562807669409295\r\nSpain,1996,5.76838440012262\r\nSpain,1997,6.206345600807881\r\nSpain,1998,6.36990671301203\r\nSpain,1999,6.891100140825451\r\nSpain,2000,7.230107062082441\r\nSpain,2001,7.21632868721128\r\nSpain,2002,7.548593755513611\r\nSpain,2003,7.55339626091952\r\nSpain,2004,7.817921366239769\r\nSpain,2005,8.029202013004559\r\nSpain,2006,7.698212588016861\r\nSpain,2007,7.842252303352059\r\nSpain,2008,7.05399426114393\r\nSpain,2009,6.2008570378595\r\nSpain,2010,5.8666424257502605\r\nSpain,2011,5.87043576026433\r\nSpain,2012,5.75694702858302\r\nSpain,2013,5.20806018098009\r\nSpain,2014,5.184066860004941\r\nSpain,2015,5.51794438614828\r\nSpain,2016,5.31429460704187\r\nSpain,2017,5.65403956917695\r\nSpain,2018,5.5203503997221794\r\nFrance,1961,5.95275397653278\r\nFrance,1962,6.23540842259512\r\nFrance,1963,6.875291379897469\r\nFrance,1964,7.0139945523702405\r\nFrance,1965,7.06275207370249\r\nFrance,1966,6.89913997676309\r\nFrance,1967,7.326519797191531\r\nFrance,1968,7.515931986760781\r\nFrance,1969,8.01484111319316\r\nFrance,1970,8.449427955373041\r\nFrance,1971,8.829916240415551\r\nFrance,1972,9.10589769494911\r\nFrance,1973,9.709105990285927\r\nFrance,1974,9.31238202698581\r\nFrance,1975,8.286812040260779\r\nFrance,1976,9.325008950105213\r\nFrance,1977,8.82830186597347\r\nFrance,1978,9.24925441380991\r\nFrance,1979,9.63552950983764\r\nFrance,1980,9.16153198126737\r\nFrance,1981,8.20310996816577\r\nFrance,1982,7.84102701881981\r\nFrance,1983,7.54328702412502\r\nFrance,1984,7.19488061940788\r\nFrance,1985,7.07584870756449\r\nFrance,1986,6.7679993897795\r\nFrance,1987,6.58768894111375\r\nFrance,1988,6.45890206598263\r\nFrance,1989,6.74228227970014\r\nFrance,1990,6.12235968730942\r\nFrance,1991,6.50093053522882\r\nFrance,1992,6.264271582765599\r\nFrance,1993,5.913536993519419\r\nFrance,1994,5.806442913200019\r\nFrance,1995,5.91650545807202\r\nFrance,1996,6.1580073802034905\r\nFrance,1997,5.98917622411439\r\nFrance,1998,6.333336678503031\r\nFrance,1999,6.19868439783533\r\nFrance,2000,6.12747793966756\r\nFrance,2001,6.14204323283934\r\nFrance,2002,6.00547532632575\r\nFrance,2003,6.054152566444019\r\nFrance,2004,6.02743954575417\r\nFrance,2005,6.027601800816081\r\nFrance,2006,5.8408041976332\r\nFrance,2007,5.6690313848081\r\nFrance,2008,5.564428999658389\r\nFrance,2009,5.3144144218630895\r\nFrance,2010,5.3506589250195\r\nFrance,2011,5.10431227537594\r\nFrance,2012,5.122311190220549\r\nFrance,2013,5.10055617017218\r\nFrance,2014,4.59237682939366\r\nFrance,2015,4.666086596508469\r\nFrance,2016,4.686612202390911\r\nFrance,2017,4.727575621633751\r\nFrance,2018,4.61924120513374\r\nItaly,1961,2.46455580982798\r\nItaly,1962,2.87849638704821\r\nItaly,1963,3.21510013267775\r\nItaly,1964,3.40505343456793\r\nItaly,1965,3.641502446157201\r\nItaly,1966,4.07944062148937\r\nItaly,1967,4.43148255687564\r\nItaly,1968,4.6866127743105\r\nItaly,1969,5.04331122129256\r\nItaly,1970,5.513392311858469\r\nItaly,1971,5.762318226546871\r\nItaly,1972,6.04932145389196\r\nItaly,1973,6.471435783767821\r\nItaly,1974,6.521514721923809\r\nItaly,1975,6.174325441923389\r\nItaly,1976,6.592316217340599\r\nItaly,1977,6.36534883105407\r\nItaly,1978,6.64648995729563\r\nItaly,1979,6.88000191555952\r\nItaly,1980,6.89248498105296\r\nItaly,1981,6.690421637942589\r\nItaly,1982,6.53799211538689\r\nItaly,1983,6.388587126874911\r\nItaly,1984,6.498251683669599\r\nItaly,1985,6.575619372201941\r\nItaly,1986,6.47489764984918\r\nItaly,1987,6.778406128935781\r\nItaly,1988,6.88301251465496\r\nItaly,1989,7.215357675101121\r\nItaly,1990,7.145018163148871\r\nItaly,1991,7.11910727906388\r\nItaly,1992,7.08258154154983\r\nItaly,1993,6.98429142363747\r\nItaly,1994,6.9012409532153205\r\nItaly,1995,7.32562417028845\r\nItaly,1996,7.248469278581299\r\nItaly,1997,7.30387208577226\r\nItaly,1998,7.49243358572755\r\nItaly,1999,7.607835904069481\r\nItaly,2000,7.66216803916005\r\nItaly,2001,7.662604586996549\r\nItaly,2002,7.77212964817281\r\nItaly,2003,8.06445942307569\r\nItaly,2004,8.189430910220901\r\nItaly,2005,8.173783296052799\r\nItaly,2006,8.02576652003813\r\nItaly,2007,7.860768047535941\r\nItaly,2008,7.56424830065774\r\nItaly,2009,6.71897026103485\r\nItaly,2010,6.8368363621512005\r\nItaly,2011,6.68059415640586\r\nItaly,2012,6.327708947625671\r\nItaly,2013,5.75173986603037\r\nItaly,2014,5.38731095718742\r\nItaly,2015,5.56325970991024\r\nItaly,2016,5.49816520549801\r\nItaly,2017,5.43785754854959\r\nItaly,2018,5.37637433931087\r\nPortugal,1961,1.01805031874782\r\nPortugal,1962,1.03437786476184\r\nPortugal,1963,1.1102086241349298\r\nPortugal,1964,1.2199841400983795\r\nPortugal,1965,1.28894799688174\r\nPortugal,1966,1.3270358605261\r\nPortugal,1967,1.39828723130941\r\nPortugal,1968,1.47233578335682\r\nPortugal,1969,1.66858726116032\r\nPortugal,1970,1.7577914045973102\r\nPortugal,1971,1.89803576130562\r\nPortugal,1972,2.12615918326202\r\nPortugal,1973,2.31706860803188\r\nPortugal,1974,2.36623478687489\r\nPortugal,1975,2.34856528915804\r\nPortugal,1976,2.39676789075452\r\nPortugal,1977,2.4036428917026003\r\nPortugal,1978,2.3793826275730403\r\nPortugal,1979,2.5908555453142004\r\nPortugal,1980,2.76311600530477\r\nPortugal,1981,2.76382849396865\r\nPortugal,1982,2.9515740426206403\r\nPortugal,1983,3.03071090037875\r\nPortugal,1984,2.9075597685207795\r\nPortugal,1985,2.73425939329461\r\nPortugal,1986,3.04208613524489\r\nPortugal,1987,3.1441777198894\r\nPortugal,1988,3.28615514975134\r\nPortugal,1989,4.11891514242879\r\nPortugal,1990,4.11390395361496\r\nPortugal,1991,4.29407539079148\r\nPortugal,1992,4.69932461149939\r\nPortugal,1993,4.59523265936922\r\nPortugal,1994,4.73401207523376\r\nPortugal,1995,5.05576602684812\r\nPortugal,1996,4.84303123675656\r\nPortugal,1997,5.038096337542361\r\nPortugal,1998,5.47233537620731\r\nPortugal,1999,6.088378078002489\r\nPortugal,2000,5.99228486035527\r\nPortugal,2001,5.92315416740891\r\nPortugal,2002,6.29676809092376\r\nPortugal,2003,5.78650308672459\r\nPortugal,2004,5.92625178834401\r\nPortugal,2005,6.233261260952481\r\nPortugal,2006,5.74494824699723\r\nPortugal,2007,5.57717924484993\r\nPortugal,2008,5.38350512593225\r\nPortugal,2009,5.32727897067508\r\nPortugal,2010,4.81788690166555\r\nPortugal,2011,4.72362932344216\r\nPortugal,2012,4.58589780314382\r\nPortugal,2013,4.45239423770679\r\nPortugal,2014,4.415895223007031\r\nPortugal,2015,4.81266984331839\r\nPortugal,2016,4.722311430046839\r\nPortugal,2017,5.177519101385401\r\nPortugal,2018,4.840612760508691\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/output/CO2_Emissions_sortedByYearAndCountry.csv b/output/CO2_Emissions_sortedByYearAndCountry.csv
+--- a/output/CO2_Emissions_sortedByYearAndCountry.csv	(revision c736df10544931538b2520a979b24fb87bc35299)
++++ b/output/CO2_Emissions_sortedByYearAndCountry.csv	(date 1709055300593)
+@@ -1,4 +1,62 @@
+ Country,Year,Value
++Switzerland,1961,3.75182498407337
++Switzerland,1962,4.33357206868186
++Switzerland,1963,5.11129548823576
++Switzerland,1964,4.865282037605009
++Switzerland,1965,5.18573195603087
++Switzerland,1966,5.32762003122
++Switzerland,1967,5.43460087436382
++Switzerland,1968,5.93770157921089
++Switzerland,1969,6.20828885140393
++Switzerland,1970,6.51957044283522
++Switzerland,1971,6.75043498735555
++Switzerland,1972,6.863739818647501
++Switzerland,1973,7.334759289444519
++Switzerland,1974,6.5413112709249805
++Switzerland,1975,6.16813754134962
++Switzerland,1976,6.42342789469074
++Switzerland,1977,6.54098549092893
++Switzerland,1978,6.720778708058179
++Switzerland,1979,6.34085058619892
++Switzerland,1980,6.41494978643569
++Switzerland,1981,6.11563526014963
++Switzerland,1982,5.73116759023856
++Switzerland,1983,6.24251846887248
++Switzerland,1984,6.081245260495209
++Switzerland,1985,6.1553385319066205
++Switzerland,1986,6.5028246693943705
++Switzerland,1987,6.15003928125839
++Switzerland,1988,6.17452610843655
++Switzerland,1989,5.93778298855168
++Switzerland,1990,6.452219106222469
++Switzerland,1991,6.71619819946476
++Switzerland,1992,6.64692080302948
++Switzerland,1993,6.262372509553901
++Switzerland,1994,6.0896837839828
++Switzerland,1995,6.16985245900009
++Switzerland,1996,6.223265482158131
++Switzerland,1997,6.03054970682359
++Switzerland,1998,6.2236278166486905
++Switzerland,1999,6.2332105401588604
++Switzerland,2000,6.08414239482201
++Switzerland,2001,6.24632253984659
++Switzerland,2002,5.980985216657309
++Switzerland,2003,6.10982339421946
++Switzerland,2004,6.12750985334168
++Switzerland,2005,6.1650250130595
++Switzerland,2006,6.077017782358849
++Switzerland,2007,5.76603434962006
++Switzerland,2008,5.8789109108323805
++Switzerland,2009,5.63932761445853
++Switzerland,2010,5.77770297392596
++Switzerland,2011,5.20575431114562
++Switzerland,2012,5.3108338384273495
++Switzerland,2013,5.37497098034872
++Switzerland,2014,4.85183819699684
++Switzerland,2015,4.7124044781244505
++Switzerland,2016,4.730490994153111
++Switzerland,2017,4.5694192033924
++Switzerland,2018,4.401991043569019
+ Germany,1990,12.0266092332951
+ Germany,1991,11.6526009432162
+ Germany,1992,11.0729234271655
+@@ -28,64 +86,6 @@
+ Germany,2016,9.0730063894536
+ Germany,2017,8.85829369906254
+ Germany,2018,8.55838981170216
+-Spain,1961,1.74622171978822
+-Spain,1962,1.93578153318373
+-Spain,1963,1.87950931235422
+-Spain,1964,2.03772525684378
+-Spain,1965,2.22561019346008
+-Spain,1966,2.40773570917425
+-Spain,1967,2.64722755876329
+-Spain,1968,2.93409753966508
+-Spain,1969,2.89710186766242
+-Spain,1970,3.4579698591709
+-Spain,1971,3.75994979034019
+-Spain,1972,4.190966866158241
+-Spain,1973,4.440462955344151
+-Spain,1974,4.8949886404547405
+-Spain,1975,5.07985214456106
+-Spain,1976,5.49129460300474
+-Spain,1977,5.35894297593551
+-Spain,1978,5.43859432352152
+-Spain,1979,5.47831588706293
+-Spain,1980,5.73477895392154
+-Spain,1981,5.489822340222029
+-Spain,1982,5.52588710812812
+-Spain,1983,5.367036187315019
+-Spain,1984,5.1904825375516905
+-Spain,1985,5.23099848524203
+-Spain,1986,4.93636135990336
+-Spain,1987,4.93419319699474
+-Spain,1988,5.1341107689725
+-Spain,1989,5.837882861346331
+-Spain,1990,5.53215372028976
+-Spain,1991,5.702608833831509
+-Spain,1992,5.93702104708182
+-Spain,1993,5.54123493296531
+-Spain,1994,5.77661574566992
+-Spain,1995,6.0562807669409295
+-Spain,1996,5.76838440012262
+-Spain,1997,6.206345600807881
+-Spain,1998,6.36990671301203
+-Spain,1999,6.891100140825451
+-Spain,2000,7.230107062082441
+-Spain,2001,7.21632868721128
+-Spain,2002,7.548593755513611
+-Spain,2003,7.55339626091952
+-Spain,2004,7.817921366239769
+-Spain,2005,8.029202013004559
+-Spain,2006,7.698212588016861
+-Spain,2007,7.842252303352059
+-Spain,2008,7.05399426114393
+-Spain,2009,6.2008570378595
+-Spain,2010,5.8666424257502605
+-Spain,2011,5.87043576026433
+-Spain,2012,5.75694702858302
+-Spain,2013,5.20806018098009
+-Spain,2014,5.184066860004941
+-Spain,2015,5.51794438614828
+-Spain,2016,5.31429460704187
+-Spain,2017,5.65403956917695
+-Spain,2018,5.5203503997221794
+ France,1961,5.95275397653278
+ France,1962,6.23540842259512
+ France,1963,6.875291379897469
+@@ -144,6 +144,64 @@
+ France,2016,4.686612202390911
+ France,2017,4.727575621633751
+ France,2018,4.61924120513374
++United Kingdom,1961,11.1541389204545
++United Kingdom,1962,11.1429283943662
++United Kingdom,1963,11.254853457595502
++United Kingdom,1964,11.2658388888889
++United Kingdom,1965,11.4561595126228
++United Kingdom,1966,11.3189607765995
++United Kingdom,1967,10.7841045544886
++United Kingdom,1968,10.9934882280386
++United Kingdom,1969,11.3426704063274
++United Kingdom,1970,11.732397299834302
++United Kingdom,1971,11.8230362899475
++United Kingdom,1972,11.5623541783507
++United Kingdom,1973,11.7455269442877
++United Kingdom,1974,10.983592860989098
++United Kingdom,1975,10.7360536444124
++United Kingdom,1976,10.6545420185253
++United Kingdom,1977,10.7618685096132
++United Kingdom,1978,10.7672949904499
++United Kingdom,1979,11.4653910395961
++United Kingdom,1980,10.2867570419519
++United Kingdom,1981,9.955296647774473
++United Kingdom,1982,9.74046165830407
++United Kingdom,1983,9.68779840493774
++United Kingdom,1984,9.381702908748188
++United Kingdom,1985,9.90013978359926
++United Kingdom,1986,10.0346393903213
++United Kingdom,1987,10.0677466746359
++United Kingdom,1988,10.0207439610864
++United Kingdom,1989,10.1919306282382
++United Kingdom,1990,9.72425282701003
++United Kingdom,1991,9.931929002850447
++United Kingdom,1992,9.603614785461213
++United Kingdom,1993,9.364743235171929
++United Kingdom,1994,9.252278701328391
++United Kingdom,1995,9.03651784595503
++United Kingdom,1996,9.36373662363249
++United Kingdom,1997,8.95674352264695
++United Kingdom,1998,8.97684501282085
++United Kingdom,1999,8.9014664107674
++United Kingdom,2000,9.00148361810467
++United Kingdom,2001,9.20979383630894
++United Kingdom,2002,8.930869498290551
++United Kingdom,2003,9.08804728145118
++United Kingdom,2004,9.04048907859009
++United Kingdom,2005,8.9501524191421
++United Kingdom,2006,8.90169773868215
++United Kingdom,2007,8.62913806968256
++United Kingdom,2008,8.3228443641371
++United Kingdom,2009,7.4686553963492
++United Kingdom,2010,7.67592642970483
++United Kingdom,2011,7.0254246009370105
++United Kingdom,2012,7.33247132682362
++United Kingdom,2013,7.06490255865771
++United Kingdom,2014,6.421598191445139
++United Kingdom,2015,6.14854495774701
++United Kingdom,2016,5.774741667985411
++United Kingdom,2017,5.54626594443601
++United Kingdom,2018,5.39870813789348
+ Italy,1961,2.46455580982798
+ Italy,1962,2.87849638704821
+ Italy,1963,3.21510013267775
+@@ -202,61 +260,3 @@
+ Italy,2016,5.49816520549801
+ Italy,2017,5.43785754854959
+ Italy,2018,5.37637433931087
+-Portugal,1961,1.01805031874782
+-Portugal,1962,1.03437786476184
+-Portugal,1963,1.1102086241349298
+-Portugal,1964,1.2199841400983795
+-Portugal,1965,1.28894799688174
+-Portugal,1966,1.3270358605261
+-Portugal,1967,1.39828723130941
+-Portugal,1968,1.47233578335682
+-Portugal,1969,1.66858726116032
+-Portugal,1970,1.7577914045973102
+-Portugal,1971,1.89803576130562
+-Portugal,1972,2.12615918326202
+-Portugal,1973,2.31706860803188
+-Portugal,1974,2.36623478687489
+-Portugal,1975,2.34856528915804
+-Portugal,1976,2.39676789075452
+-Portugal,1977,2.4036428917026003
+-Portugal,1978,2.3793826275730403
+-Portugal,1979,2.5908555453142004
+-Portugal,1980,2.76311600530477
+-Portugal,1981,2.76382849396865
+-Portugal,1982,2.9515740426206403
+-Portugal,1983,3.03071090037875
+-Portugal,1984,2.9075597685207795
+-Portugal,1985,2.73425939329461
+-Portugal,1986,3.04208613524489
+-Portugal,1987,3.1441777198894
+-Portugal,1988,3.28615514975134
+-Portugal,1989,4.11891514242879
+-Portugal,1990,4.11390395361496
+-Portugal,1991,4.29407539079148
+-Portugal,1992,4.69932461149939
+-Portugal,1993,4.59523265936922
+-Portugal,1994,4.73401207523376
+-Portugal,1995,5.05576602684812
+-Portugal,1996,4.84303123675656
+-Portugal,1997,5.038096337542361
+-Portugal,1998,5.47233537620731
+-Portugal,1999,6.088378078002489
+-Portugal,2000,5.99228486035527
+-Portugal,2001,5.92315416740891
+-Portugal,2002,6.29676809092376
+-Portugal,2003,5.78650308672459
+-Portugal,2004,5.92625178834401
+-Portugal,2005,6.233261260952481
+-Portugal,2006,5.74494824699723
+-Portugal,2007,5.57717924484993
+-Portugal,2008,5.38350512593225
+-Portugal,2009,5.32727897067508
+-Portugal,2010,4.81788690166555
+-Portugal,2011,4.72362932344216
+-Portugal,2012,4.58589780314382
+-Portugal,2013,4.45239423770679
+-Portugal,2014,4.415895223007031
+-Portugal,2015,4.81266984331839
+-Portugal,2016,4.722311430046839
+-Portugal,2017,5.177519101385401
+-Portugal,2018,4.840612760508691
+Index: .idea/jupyter-settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/jupyter-settings.xml b/.idea/jupyter-settings.xml
+new file mode 100644
+--- /dev/null	(date 1709054855907)
++++ b/.idea/jupyter-settings.xml	(date 1709054855907)
+@@ -0,0 +1,17 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="JupyterPersistentConnectionParameters">
++    <option name="moduleParameters">
++      <map>
++        <entry key="$PROJECT_DIR$/.idea/datawarehouse.iml">
++          <value>
++            <JupyterConnectionParameters>
++              <option name="managed" value="true" />
++              <option name="sdkName" value="Python 3.12 (pythonProject)" />
++            </JupyterConnectionParameters>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: transform_co2.ipynb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n \"cells\": [\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 326,\r\n   \"id\": \"initial_id\",\r\n   \"metadata\": {\r\n    \"collapsed\": true,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-27T17:11:42.408909900Z\",\r\n     \"start_time\": \"2024-02-27T17:11:42.392832800Z\"\r\n    }\r\n   },\r\n   \"outputs\": [\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": \"                  Country Name        1960        1961        1962  \\\\\\n0                        Aruba  204.631696  208.837879  226.081890   \\n1  Africa Eastern and Southern    0.906060    0.922474    0.930816   \\n2                  Afghanistan    0.046057    0.053589    0.073721   \\n3   Africa Western and Central    0.090880    0.095283    0.096612   \\n4                       Angola    0.100835    0.082204    0.210533   \\n\\n         1963        1964        1965        1966        1967        1968  \\\\\\n0  214.785217  207.626699  185.213644  172.158729  210.819017  194.917536   \\n1    0.940570    0.996033    1.047280    1.033908    1.052204    1.079727   \\n2    0.074161    0.086174    0.101285    0.107399    0.123409    0.115142   \\n3    0.112376    0.133258    0.184803    0.193676    0.189305    0.143989   \\n4    0.202739    0.213562    0.205891    0.268937    0.172096    0.289702   \\n\\n   ...      2009      2010      2011      2012      2013      2014      2015  \\\\\\n0  ...       NaN       NaN       NaN       NaN       NaN       NaN       NaN   \\n1  ...  1.021954  1.048876  1.005338  1.021646  1.031833  1.041145  0.987393   \\n2  ...  0.211306  0.297065  0.407074  0.335351  0.263716  0.234037  0.232176   \\n3  ...  0.426770  0.472819  0.497023  0.490867  0.504655  0.507671  0.480743   \\n4  ...  1.205902  1.221515  1.216317  1.204799  1.261542  1.285365  1.260921   \\n\\n       2016      2017      2018  \\n0       NaN       NaN       NaN  \\n1  0.971016  0.959978  0.933541  \\n2  0.208857  0.203328  0.200151  \\n3  0.472959  0.476438  0.515544  \\n4  1.227703  1.034317  0.887380  \\n\\n[5 rows x 60 columns]\",\r\n      \"text/html\": \"<div>\\n<style scoped>\\n    .dataframe tbody tr th:only-of-type {\\n        vertical-align: middle;\\n    }\\n\\n    .dataframe tbody tr th {\\n        vertical-align: top;\\n    }\\n\\n    .dataframe thead th {\\n        text-align: right;\\n    }\\n</style>\\n<table border=\\\"1\\\" class=\\\"dataframe\\\">\\n  <thead>\\n    <tr style=\\\"text-align: right;\\\">\\n      <th></th>\\n      <th>Country Name</th>\\n      <th>1960</th>\\n      <th>1961</th>\\n      <th>1962</th>\\n      <th>1963</th>\\n      <th>1964</th>\\n      <th>1965</th>\\n      <th>1966</th>\\n      <th>1967</th>\\n      <th>1968</th>\\n      <th>...</th>\\n      <th>2009</th>\\n      <th>2010</th>\\n      <th>2011</th>\\n      <th>2012</th>\\n      <th>2013</th>\\n      <th>2014</th>\\n      <th>2015</th>\\n      <th>2016</th>\\n      <th>2017</th>\\n      <th>2018</th>\\n    </tr>\\n  </thead>\\n  <tbody>\\n    <tr>\\n      <th>0</th>\\n      <td>Aruba</td>\\n      <td>204.631696</td>\\n      <td>208.837879</td>\\n      <td>226.081890</td>\\n      <td>214.785217</td>\\n      <td>207.626699</td>\\n      <td>185.213644</td>\\n      <td>172.158729</td>\\n      <td>210.819017</td>\\n      <td>194.917536</td>\\n      <td>...</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n    </tr>\\n    <tr>\\n      <th>1</th>\\n      <td>Africa Eastern and Southern</td>\\n      <td>0.906060</td>\\n      <td>0.922474</td>\\n      <td>0.930816</td>\\n      <td>0.940570</td>\\n      <td>0.996033</td>\\n      <td>1.047280</td>\\n      <td>1.033908</td>\\n      <td>1.052204</td>\\n      <td>1.079727</td>\\n      <td>...</td>\\n      <td>1.021954</td>\\n      <td>1.048876</td>\\n      <td>1.005338</td>\\n      <td>1.021646</td>\\n      <td>1.031833</td>\\n      <td>1.041145</td>\\n      <td>0.987393</td>\\n      <td>0.971016</td>\\n      <td>0.959978</td>\\n      <td>0.933541</td>\\n    </tr>\\n    <tr>\\n      <th>2</th>\\n      <td>Afghanistan</td>\\n      <td>0.046057</td>\\n      <td>0.053589</td>\\n      <td>0.073721</td>\\n      <td>0.074161</td>\\n      <td>0.086174</td>\\n      <td>0.101285</td>\\n      <td>0.107399</td>\\n      <td>0.123409</td>\\n      <td>0.115142</td>\\n      <td>...</td>\\n      <td>0.211306</td>\\n      <td>0.297065</td>\\n      <td>0.407074</td>\\n      <td>0.335351</td>\\n      <td>0.263716</td>\\n      <td>0.234037</td>\\n      <td>0.232176</td>\\n      <td>0.208857</td>\\n      <td>0.203328</td>\\n      <td>0.200151</td>\\n    </tr>\\n    <tr>\\n      <th>3</th>\\n      <td>Africa Western and Central</td>\\n      <td>0.090880</td>\\n      <td>0.095283</td>\\n      <td>0.096612</td>\\n      <td>0.112376</td>\\n      <td>0.133258</td>\\n      <td>0.184803</td>\\n      <td>0.193676</td>\\n      <td>0.189305</td>\\n      <td>0.143989</td>\\n      <td>...</td>\\n      <td>0.426770</td>\\n      <td>0.472819</td>\\n      <td>0.497023</td>\\n      <td>0.490867</td>\\n      <td>0.504655</td>\\n      <td>0.507671</td>\\n      <td>0.480743</td>\\n      <td>0.472959</td>\\n      <td>0.476438</td>\\n      <td>0.515544</td>\\n    </tr>\\n    <tr>\\n      <th>4</th>\\n      <td>Angola</td>\\n      <td>0.100835</td>\\n      <td>0.082204</td>\\n      <td>0.210533</td>\\n      <td>0.202739</td>\\n      <td>0.213562</td>\\n      <td>0.205891</td>\\n      <td>0.268937</td>\\n      <td>0.172096</td>\\n      <td>0.289702</td>\\n      <td>...</td>\\n      <td>1.205902</td>\\n      <td>1.221515</td>\\n      <td>1.216317</td>\\n      <td>1.204799</td>\\n      <td>1.261542</td>\\n      <td>1.285365</td>\\n      <td>1.260921</td>\\n      <td>1.227703</td>\\n      <td>1.034317</td>\\n      <td>0.887380</td>\\n    </tr>\\n  </tbody>\\n</table>\\n<p>5 rows × 60 columns</p>\\n</div>\"\r\n     },\r\n     \"execution_count\": 326,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"import pandas as pd\\n\",\r\n    \"\\n\",\r\n    \"data = pd.DataFrame(columns = ['Country', 'Year', 'Value'])\\n\",\r\n    \"df = pd.read_csv('./assets/CO2_Emissions_1960-2018.csv')\\n\",\r\n    \"\\n\",\r\n    \"# Pays gardés\\n\",\r\n    \"kept_countries = ['France', 'Italy', 'Spain', 'Germany', 'Portugal']\\n\",\r\n    \"limit_to_kept_countries = True\\n\",\r\n    \"\\n\",\r\n    \"df.head(5)\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"['Aruba', 'Africa Eastern and Southern', 'Afghanistan', 'Africa Western and Central', 'Angola', 'Albania', 'Andorra', 'Arab World', 'United Arab Emirates', 'Argentina', 'Armenia', 'American Samoa', 'Antigua and Barbuda', 'Australia', 'Austria', 'Azerbaijan', 'Burundi', 'Belgium', 'Benin', 'Burkina Faso', 'Bangladesh', 'Bulgaria', 'Bahrain', 'Bahamas, The', 'Bosnia and Herzegovina', 'Belarus', 'Belize', 'Bermuda', 'Bolivia', 'Brazil', 'Barbados', 'Brunei Darussalam', 'Bhutan', 'Botswana', 'Central African Republic', 'Canada', 'Central Europe and the Baltics', 'Switzerland', 'Channel Islands', 'Chile', 'China', \\\"Cote d'Ivoire\\\", 'Cameroon', 'Congo, Dem. Rep.', 'Congo, Rep.', 'Colombia', 'Comoros', 'Cabo Verde', 'Costa Rica', 'Caribbean small states', 'Cuba', 'Curacao', 'Cayman Islands', 'Cyprus', 'Czech Republic', 'Germany', 'Djibouti', 'Dominica', 'Denmark', 'Dominican Republic', 'Algeria', 'East Asia & Pacific (excluding high income)', 'Early-demographic dividend', 'East Asia & Pacific', 'Europe & Central Asia (excluding high income)', 'Europe & Central Asia', 'Ecuador', 'Egypt, Arab Rep.', 'Euro area', 'Eritrea', 'Spain', 'Estonia', 'Ethiopia', 'European Union', 'Fragile and conflict affected situations', 'Finland', 'Fiji', 'France', 'Faroe Islands', 'Micronesia, Fed. Sts.', 'Gabon', 'United Kingdom', 'Georgia', 'Ghana', 'Gibraltar', 'Guinea', 'Gambia, The', 'Guinea-Bissau', 'Equatorial Guinea', 'Greece', 'Grenada', 'Greenland', 'Guatemala', 'Guam', 'Guyana', 'High income', 'Hong Kong SAR, China', 'Honduras', 'Heavily indebted poor countries (HIPC)', 'Croatia', 'Haiti', 'Hungary', 'IBRD only', 'IDA & IBRD total', 'IDA total', 'IDA blend', 'Indonesia', 'IDA only', 'Isle of Man', 'India', 'Not classified', 'Ireland', 'Iran, Islamic Rep.', 'Iraq', 'Iceland', 'Israel', 'Italy', 'Jamaica', 'Jordan', 'Japan', 'Kazakhstan', 'Kenya', 'Kyrgyz Republic', 'Cambodia', 'Kiribati', 'St. Kitts and Nevis', 'Korea, Rep.', 'Kuwait', 'Latin America & Caribbean (excluding high income)', 'Lao PDR', 'Lebanon', 'Liberia', 'Libya', 'St. Lucia', 'Latin America & Caribbean', 'Least developed countries: UN classification', 'Low income', 'Liechtenstein', 'Sri Lanka', 'Lower middle income', 'Low & middle income', 'Lesotho', 'Late-demographic dividend', 'Lithuania', 'Luxembourg', 'Latvia', 'Macao SAR, China', 'St. Martin (French part)', 'Morocco', 'Monaco', 'Moldova', 'Madagascar', 'Maldives', 'Middle East & North Africa', 'Mexico', 'Marshall Islands', 'Middle income', 'North Macedonia', 'Mali', 'Malta', 'Myanmar', 'Middle East & North Africa (excluding high income)', 'Montenegro', 'Mongolia', 'Northern Mariana Islands', 'Mozambique', 'Mauritania', 'Mauritius', 'Malawi', 'Malaysia', 'North America', 'Namibia', 'New Caledonia', 'Niger', 'Nigeria', 'Nicaragua', 'Netherlands', 'Norway', 'Nepal', 'Nauru', 'New Zealand', 'OECD members', 'Oman', 'Other small states', 'Pakistan', 'Panama', 'Peru', 'Philippines', 'Palau', 'Papua New Guinea', 'Poland', 'Pre-demographic dividend', 'Puerto Rico', \\\"Korea, Dem. People's Rep.\\\", 'Portugal', 'Paraguay', 'West Bank and Gaza', 'Pacific island small states', 'Post-demographic dividend', 'French Polynesia', 'Qatar', 'Romania', 'Russian Federation', 'Rwanda', 'South Asia', 'Saudi Arabia', 'Sudan', 'Senegal', 'Singapore', 'Solomon Islands', 'Sierra Leone', 'El Salvador', 'San Marino', 'Somalia', 'Serbia', 'Sub-Saharan Africa (excluding high income)', 'South Sudan', 'Sub-Saharan Africa', 'Small states', 'Sao Tome and Principe', 'Suriname', 'Slovak Republic', 'Slovenia', 'Sweden', 'Eswatini', 'Sint Maarten (Dutch part)', 'Seychelles', 'Syrian Arab Republic', 'Turks and Caicos Islands', 'Chad', 'East Asia & Pacific (IDA & IBRD countries)', 'Europe & Central Asia (IDA & IBRD countries)', 'Togo', 'Thailand', 'Tajikistan', 'Turkmenistan', 'Latin America & the Caribbean (IDA & IBRD countries)', 'Timor-Leste', 'Middle East & North Africa (IDA & IBRD countries)', 'Tonga', 'South Asia (IDA & IBRD)', 'Sub-Saharan Africa (IDA & IBRD countries)', 'Trinidad and Tobago', 'Tunisia', 'Turkey', 'Tuvalu', 'Tanzania', 'Uganda', 'Ukraine', 'Upper middle income', 'Uruguay', 'United States', 'Uzbekistan', 'St. Vincent and the Grenadines', 'Venezuela, RB', 'British Virgin Islands', 'Virgin Islands (U.S.)', 'Vietnam', 'Vanuatu', 'World', 'Samoa', 'Kosovo', 'Yemen, Rep.', 'South Africa', 'Zambia', 'Zimbabwe']\\n\"\r\n     ]\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Récupération de la liste des pays\\n\",\r\n    \"countries = df['Country Name'].unique().tolist()\\n\",\r\n    \"print(countries)\\n\",\r\n    \"df.set_index('Country Name', inplace=True)\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-27T17:11:42.425204700Z\",\r\n     \"start_time\": \"2024-02-27T17:11:42.407191100Z\"\r\n    }\r\n   },\r\n   \"id\": \"958e6dfec7895a1e\",\r\n   \"execution_count\": 327\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"['1961', '1962', '1963', '1964', '1965', '1966', '1967', '1968', '1969', '1970', '1971', '1972', '1973', '1974', '1975', '1976', '1977', '1978', '1979', '1980', '1981', '1982', '1983', '1984', '1985', '1986', '1987', '1988', '1989', '1990', '1991', '1992', '1993', '1994', '1995', '1996', '1997', '1998', '1999', '2000', '2001', '2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']\\n\"\r\n     ]\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Récupération de la liste des années\\n\",\r\n    \"columns = df.columns\\n\",\r\n    \"years = columns[1:].tolist()\\n\",\r\n    \"print(years)\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-27T17:11:42.436716700Z\",\r\n     \"start_time\": \"2024-02-27T17:11:42.411186400Z\"\r\n    }\r\n   },\r\n   \"id\": \"16dafa8f6432cf5c\",\r\n   \"execution_count\": 328\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": \"  Country  Year       Value\\n0   Aruba  1961  208.837879\\n1   Aruba  1962  226.081890\\n2   Aruba  1963  214.785217\\n3   Aruba  1964  207.626699\\n4   Aruba  1965  185.213644\",\r\n      \"text/html\": \"<div>\\n<style scoped>\\n    .dataframe tbody tr th:only-of-type {\\n        vertical-align: middle;\\n    }\\n\\n    .dataframe tbody tr th {\\n        vertical-align: top;\\n    }\\n\\n    .dataframe thead th {\\n        text-align: right;\\n    }\\n</style>\\n<table border=\\\"1\\\" class=\\\"dataframe\\\">\\n  <thead>\\n    <tr style=\\\"text-align: right;\\\">\\n      <th></th>\\n      <th>Country</th>\\n      <th>Year</th>\\n      <th>Value</th>\\n    </tr>\\n  </thead>\\n  <tbody>\\n    <tr>\\n      <th>0</th>\\n      <td>Aruba</td>\\n      <td>1961</td>\\n      <td>208.837879</td>\\n    </tr>\\n    <tr>\\n      <th>1</th>\\n      <td>Aruba</td>\\n      <td>1962</td>\\n      <td>226.081890</td>\\n    </tr>\\n    <tr>\\n      <th>2</th>\\n      <td>Aruba</td>\\n      <td>1963</td>\\n      <td>214.785217</td>\\n    </tr>\\n    <tr>\\n      <th>3</th>\\n      <td>Aruba</td>\\n      <td>1964</td>\\n      <td>207.626699</td>\\n    </tr>\\n    <tr>\\n      <th>4</th>\\n      <td>Aruba</td>\\n      <td>1965</td>\\n      <td>185.213644</td>\\n    </tr>\\n  </tbody>\\n</table>\\n</div>\"\r\n     },\r\n     \"execution_count\": 329,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Création nouveau dataframe organisé par pays puis années\\n\",\r\n    \"data_list = []\\n\",\r\n    \"\\n\",\r\n    \"for country in countries:\\n\",\r\n    \"    #values = df[df['Country Name'] == country]\\n\",\r\n    \"    for year in years:\\n\",\r\n    \"        value = df.loc[country, year]\\n\",\r\n    \"        #print(value)\\n\",\r\n    \"        data_list.append({'Country': country, 'Year': year, 'Value': value})\\n\",\r\n    \"data = pd.DataFrame(data_list, columns=[\\\"Country\\\", \\\"Year\\\", \\\"Value\\\"])\\n\",\r\n    \"data.head(5)\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-27T17:11:42.484629200Z\",\r\n     \"start_time\": \"2024-02-27T17:11:42.428205100Z\"\r\n    }\r\n   },\r\n   \"id\": \"51c50d982ef15ef\",\r\n   \"execution_count\": 329\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": \"(15428, 3)\"\r\n     },\r\n     \"execution_count\": 330,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"data.shape\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-27T17:11:42.484629200Z\",\r\n     \"start_time\": \"2024-02-27T17:11:42.478607400Z\"\r\n    }\r\n   },\r\n   \"id\": \"2b5b70fd948a1f3\",\r\n   \"execution_count\": 330\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [\r\n    {\r\n     \"name\": \"stdout\",\r\n     \"output_type\": \"stream\",\r\n     \"text\": [\r\n      \"Nombre de valeurs invalides ou nulls: 2289\\n\"\r\n     ]\r\n    },\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": \"(13139, 3)\"\r\n     },\r\n     \"execution_count\": 331,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"# Suppression des valeurs inutiles si nécessaires\\n\",\r\n    \"nb_na = data['Value'].isna().sum()\\n\",\r\n    \"print(\\\"Nombre de valeurs invalides ou nulls: \\\" + str(nb_na))\\n\",\r\n    \"if nb_na > 0:\\n\",\r\n    \"    data.dropna(subset=['Value'], inplace=True)\\n\",\r\n    \"data.shape\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-27T17:11:42.499124700Z\",\r\n     \"start_time\": \"2024-02-27T17:11:42.481629Z\"\r\n    }\r\n   },\r\n   \"id\": \"86b0a5de0446ff4b\",\r\n   \"execution_count\": 331\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"data.to_csv('./output/CO2_Emissions_sortedByYearAndCountry.csv', index=False)\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-27T17:11:42.508558900Z\",\r\n     \"start_time\": \"2024-02-27T17:11:42.487616400Z\"\r\n    }\r\n   },\r\n   \"id\": \"3eb51ea8b229437d\",\r\n   \"execution_count\": 332\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"# Retirer les valeurs des pays différents de cette liste et exporter le fichier\\n\",\r\n    \"if limit_to_kept_countries:\\n\",\r\n    \"    data = data[data.Country.isin(kept_countries)]\\n\",\r\n    \"data.to_csv('./output/CO2_Emissions_sortedByYearAndCountry.csv', index=False)\\n\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-27T17:11:42.539703400Z\",\r\n     \"start_time\": \"2024-02-27T17:11:42.505196200Z\"\r\n    }\r\n   },\r\n   \"id\": \"3a82d312e31856d4\",\r\n   \"execution_count\": 333\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"# Charger le fichier World Energy Consumption\\n\",\r\n    \"wec = pd.read_csv('./assets/World Energy Consumption.csv')\\n\",\r\n    \"if limit_to_kept_countries:\\n\",\r\n    \"    wec = wec[wec.country.isin(kept_countries)]\\n\",\r\n    \"wec.to_csv('./output/World Energy Consumption (limited).csv', index=False)\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-27T17:11:42.619873100Z\",\r\n     \"start_time\": \"2024-02-27T17:11:42.508558900Z\"\r\n    }\r\n   },\r\n   \"id\": \"c1e55230a741056d\",\r\n   \"execution_count\": 334\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"# Ajouter une colonne pour insérer les valeurs des émissions de Co2 en métrique tonne\\n\",\r\n    \"wec['pollution_co2'] = [float(\\\"NaN\\\")] * wec.shape[0]\\n\",\r\n    \"for (i, r) in data.iterrows():\\n\",\r\n    \"    for (idx, row) in wec.iterrows():\\n\",\r\n    \"        if row.country == r.Country and int(row.year) == int(r.Year):\\n\",\r\n    \"            wec.at[idx, 'pollution_co2'] = r.Value\\n\",\r\n    \"# Valeurs enregistrés\\n\",\r\n    \"wec.to_csv('./output/World Energy Consumption (limited).csv', index=False)\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-27T17:18:34.008872400Z\",\r\n     \"start_time\": \"2024-02-27T17:18:30.900558400Z\"\r\n    }\r\n   },\r\n   \"id\": \"e9aa89e010168301\",\r\n   \"execution_count\": 350\r\n  }\r\n ],\r\n \"metadata\": {\r\n  \"kernelspec\": {\r\n   \"display_name\": \"Python 3\",\r\n   \"language\": \"python\",\r\n   \"name\": \"python3\"\r\n  },\r\n  \"language_info\": {\r\n   \"codemirror_mode\": {\r\n    \"name\": \"ipython\",\r\n    \"version\": 2\r\n   },\r\n   \"file_extension\": \".py\",\r\n   \"mimetype\": \"text/x-python\",\r\n   \"name\": \"python\",\r\n   \"nbconvert_exporter\": \"python\",\r\n   \"pygments_lexer\": \"ipython2\",\r\n   \"version\": \"2.7.6\"\r\n  }\r\n },\r\n \"nbformat\": 4,\r\n \"nbformat_minor\": 5\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/transform_co2.ipynb b/transform_co2.ipynb
+--- a/transform_co2.ipynb	(revision c736df10544931538b2520a979b24fb87bc35299)
++++ b/transform_co2.ipynb	(date 1709055779010)
+@@ -2,13 +2,13 @@
+  "cells": [
+   {
+    "cell_type": "code",
+-   "execution_count": 326,
++   "execution_count": 107,
+    "id": "initial_id",
+    "metadata": {
+     "collapsed": true,
+     "ExecuteTime": {
+-     "end_time": "2024-02-27T17:11:42.408909900Z",
+-     "start_time": "2024-02-27T17:11:42.392832800Z"
++     "end_time": "2024-02-27T17:35:00.438665Z",
++     "start_time": "2024-02-27T17:35:00.417974Z"
+     }
+    },
+    "outputs": [
+@@ -17,7 +17,7 @@
+       "text/plain": "                  Country Name        1960        1961        1962  \\\n0                        Aruba  204.631696  208.837879  226.081890   \n1  Africa Eastern and Southern    0.906060    0.922474    0.930816   \n2                  Afghanistan    0.046057    0.053589    0.073721   \n3   Africa Western and Central    0.090880    0.095283    0.096612   \n4                       Angola    0.100835    0.082204    0.210533   \n\n         1963        1964        1965        1966        1967        1968  \\\n0  214.785217  207.626699  185.213644  172.158729  210.819017  194.917536   \n1    0.940570    0.996033    1.047280    1.033908    1.052204    1.079727   \n2    0.074161    0.086174    0.101285    0.107399    0.123409    0.115142   \n3    0.112376    0.133258    0.184803    0.193676    0.189305    0.143989   \n4    0.202739    0.213562    0.205891    0.268937    0.172096    0.289702   \n\n   ...      2009      2010      2011      2012      2013      2014      2015  \\\n0  ...       NaN       NaN       NaN       NaN       NaN       NaN       NaN   \n1  ...  1.021954  1.048876  1.005338  1.021646  1.031833  1.041145  0.987393   \n2  ...  0.211306  0.297065  0.407074  0.335351  0.263716  0.234037  0.232176   \n3  ...  0.426770  0.472819  0.497023  0.490867  0.504655  0.507671  0.480743   \n4  ...  1.205902  1.221515  1.216317  1.204799  1.261542  1.285365  1.260921   \n\n       2016      2017      2018  \n0       NaN       NaN       NaN  \n1  0.971016  0.959978  0.933541  \n2  0.208857  0.203328  0.200151  \n3  0.472959  0.476438  0.515544  \n4  1.227703  1.034317  0.887380  \n\n[5 rows x 60 columns]",
+       "text/html": "<div>\n<style scoped>\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>Country Name</th>\n      <th>1960</th>\n      <th>1961</th>\n      <th>1962</th>\n      <th>1963</th>\n      <th>1964</th>\n      <th>1965</th>\n      <th>1966</th>\n      <th>1967</th>\n      <th>1968</th>\n      <th>...</th>\n      <th>2009</th>\n      <th>2010</th>\n      <th>2011</th>\n      <th>2012</th>\n      <th>2013</th>\n      <th>2014</th>\n      <th>2015</th>\n      <th>2016</th>\n      <th>2017</th>\n      <th>2018</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>Aruba</td>\n      <td>204.631696</td>\n      <td>208.837879</td>\n      <td>226.081890</td>\n      <td>214.785217</td>\n      <td>207.626699</td>\n      <td>185.213644</td>\n      <td>172.158729</td>\n      <td>210.819017</td>\n      <td>194.917536</td>\n      <td>...</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>Africa Eastern and Southern</td>\n      <td>0.906060</td>\n      <td>0.922474</td>\n      <td>0.930816</td>\n      <td>0.940570</td>\n      <td>0.996033</td>\n      <td>1.047280</td>\n      <td>1.033908</td>\n      <td>1.052204</td>\n      <td>1.079727</td>\n      <td>...</td>\n      <td>1.021954</td>\n      <td>1.048876</td>\n      <td>1.005338</td>\n      <td>1.021646</td>\n      <td>1.031833</td>\n      <td>1.041145</td>\n      <td>0.987393</td>\n      <td>0.971016</td>\n      <td>0.959978</td>\n      <td>0.933541</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>Afghanistan</td>\n      <td>0.046057</td>\n      <td>0.053589</td>\n      <td>0.073721</td>\n      <td>0.074161</td>\n      <td>0.086174</td>\n      <td>0.101285</td>\n      <td>0.107399</td>\n      <td>0.123409</td>\n      <td>0.115142</td>\n      <td>...</td>\n      <td>0.211306</td>\n      <td>0.297065</td>\n      <td>0.407074</td>\n      <td>0.335351</td>\n      <td>0.263716</td>\n      <td>0.234037</td>\n      <td>0.232176</td>\n      <td>0.208857</td>\n      <td>0.203328</td>\n      <td>0.200151</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>Africa Western and Central</td>\n      <td>0.090880</td>\n      <td>0.095283</td>\n      <td>0.096612</td>\n      <td>0.112376</td>\n      <td>0.133258</td>\n      <td>0.184803</td>\n      <td>0.193676</td>\n      <td>0.189305</td>\n      <td>0.143989</td>\n      <td>...</td>\n      <td>0.426770</td>\n      <td>0.472819</td>\n      <td>0.497023</td>\n      <td>0.490867</td>\n      <td>0.504655</td>\n      <td>0.507671</td>\n      <td>0.480743</td>\n      <td>0.472959</td>\n      <td>0.476438</td>\n      <td>0.515544</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>Angola</td>\n      <td>0.100835</td>\n      <td>0.082204</td>\n      <td>0.210533</td>\n      <td>0.202739</td>\n      <td>0.213562</td>\n      <td>0.205891</td>\n      <td>0.268937</td>\n      <td>0.172096</td>\n      <td>0.289702</td>\n      <td>...</td>\n      <td>1.205902</td>\n      <td>1.221515</td>\n      <td>1.216317</td>\n      <td>1.204799</td>\n      <td>1.261542</td>\n      <td>1.285365</td>\n      <td>1.260921</td>\n      <td>1.227703</td>\n      <td>1.034317</td>\n      <td>0.887380</td>\n    </tr>\n  </tbody>\n</table>\n<p>5 rows × 60 columns</p>\n</div>"
+      },
+-     "execution_count": 326,
++     "execution_count": 107,
+      "metadata": {},
+      "output_type": "execute_result"
+     }
+@@ -29,7 +29,7 @@
+     "df = pd.read_csv('./assets/CO2_Emissions_1960-2018.csv')\n",
+     "\n",
+     "# Pays gardés\n",
+-    "kept_countries = ['France', 'Italy', 'Spain', 'Germany', 'Portugal']\n",
++    "kept_countries = ['France', 'Switzerland', 'Italy', 'Germany', 'United Kingdom', 'Spain']\n",
+     "limit_to_kept_countries = True\n",
+     "\n",
+     "df.head(5)"
+@@ -55,12 +55,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-27T17:11:42.425204700Z",
+-     "start_time": "2024-02-27T17:11:42.407191100Z"
++     "end_time": "2024-02-27T17:35:00.445176Z",
++     "start_time": "2024-02-27T17:35:00.439670Z"
+     }
+    },
+    "id": "958e6dfec7895a1e",
+-   "execution_count": 327
++   "execution_count": 108
+   },
+   {
+    "cell_type": "code",
+@@ -82,12 +82,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-27T17:11:42.436716700Z",
+-     "start_time": "2024-02-27T17:11:42.411186400Z"
++     "end_time": "2024-02-27T17:35:00.450062Z",
++     "start_time": "2024-02-27T17:35:00.446693Z"
+     }
+    },
+    "id": "16dafa8f6432cf5c",
+-   "execution_count": 328
++   "execution_count": 109
+   },
+   {
+    "cell_type": "code",
+@@ -97,7 +97,7 @@
+       "text/plain": "  Country  Year       Value\n0   Aruba  1961  208.837879\n1   Aruba  1962  226.081890\n2   Aruba  1963  214.785217\n3   Aruba  1964  207.626699\n4   Aruba  1965  185.213644",
+       "text/html": "<div>\n<style scoped>\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>Country</th>\n      <th>Year</th>\n      <th>Value</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>Aruba</td>\n      <td>1961</td>\n      <td>208.837879</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>Aruba</td>\n      <td>1962</td>\n      <td>226.081890</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>Aruba</td>\n      <td>1963</td>\n      <td>214.785217</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>Aruba</td>\n      <td>1964</td>\n      <td>207.626699</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>Aruba</td>\n      <td>1965</td>\n      <td>185.213644</td>\n    </tr>\n  </tbody>\n</table>\n</div>"
+      },
+-     "execution_count": 329,
++     "execution_count": 110,
+      "metadata": {},
+      "output_type": "execute_result"
+     }
+@@ -118,12 +118,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-27T17:11:42.484629200Z",
+-     "start_time": "2024-02-27T17:11:42.428205100Z"
++     "end_time": "2024-02-27T17:35:00.545195Z",
++     "start_time": "2024-02-27T17:35:00.451068Z"
+     }
+    },
+    "id": "51c50d982ef15ef",
+-   "execution_count": 329
++   "execution_count": 110
+   },
+   {
+    "cell_type": "code",
+@@ -132,7 +132,7 @@
+      "data": {
+       "text/plain": "(15428, 3)"
+      },
+-     "execution_count": 330,
++     "execution_count": 111,
+      "metadata": {},
+      "output_type": "execute_result"
+     }
+@@ -143,12 +143,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-27T17:11:42.484629200Z",
+-     "start_time": "2024-02-27T17:11:42.478607400Z"
++     "end_time": "2024-02-27T17:35:00.552037Z",
++     "start_time": "2024-02-27T17:35:00.546712Z"
+     }
+    },
+    "id": "2b5b70fd948a1f3",
+-   "execution_count": 330
++   "execution_count": 111
+   },
+   {
+    "cell_type": "code",
+@@ -164,7 +164,7 @@
+      "data": {
+       "text/plain": "(13139, 3)"
+      },
+-     "execution_count": 331,
++     "execution_count": 112,
+      "metadata": {},
+      "output_type": "execute_result"
+     }
+@@ -180,12 +180,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-27T17:11:42.499124700Z",
+-     "start_time": "2024-02-27T17:11:42.481629Z"
++     "end_time": "2024-02-27T17:35:00.562518Z",
++     "start_time": "2024-02-27T17:35:00.553042Z"
+     }
+    },
+    "id": "86b0a5de0446ff4b",
+-   "execution_count": 331
++   "execution_count": 112
+   },
+   {
+    "cell_type": "code",
+@@ -196,12 +196,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-27T17:11:42.508558900Z",
+-     "start_time": "2024-02-27T17:11:42.487616400Z"
++     "end_time": "2024-02-27T17:35:00.588342Z",
++     "start_time": "2024-02-27T17:35:00.563525Z"
+     }
+    },
+    "id": "3eb51ea8b229437d",
+-   "execution_count": 332
++   "execution_count": 113
+   },
+   {
+    "cell_type": "code",
+@@ -215,12 +215,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-27T17:11:42.539703400Z",
+-     "start_time": "2024-02-27T17:11:42.505196200Z"
++     "end_time": "2024-02-27T17:35:00.596363Z",
++     "start_time": "2024-02-27T17:35:00.589346Z"
+     }
+    },
+    "id": "3a82d312e31856d4",
+-   "execution_count": 333
++   "execution_count": 114
+   },
+   {
+    "cell_type": "code",
+@@ -235,12 +235,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-27T17:11:42.619873100Z",
+-     "start_time": "2024-02-27T17:11:42.508558900Z"
++     "end_time": "2024-02-27T17:35:00.753341Z",
++     "start_time": "2024-02-27T17:35:00.598376Z"
+     }
+    },
+    "id": "c1e55230a741056d",
+-   "execution_count": 334
++   "execution_count": 115
+   },
+   {
+    "cell_type": "code",
+@@ -258,12 +258,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-27T17:18:34.008872400Z",
+-     "start_time": "2024-02-27T17:18:30.900558400Z"
++     "end_time": "2024-02-27T17:35:04.960452Z",
++     "start_time": "2024-02-27T17:35:00.753341Z"
+     }
+    },
+    "id": "e9aa89e010168301",
+-   "execution_count": 350
++   "execution_count": 116
+   }
+  ],
+  "metadata": {
+Index: transform_wec.ipynb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\r\n \"cells\": [\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"execution_count\": 7,\r\n   \"id\": \"initial_id\",\r\n   \"metadata\": {\r\n    \"collapsed\": true,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-26T18:14:24.607605200Z\",\r\n     \"start_time\": \"2024-02-26T18:14:24.606097100Z\"\r\n    }\r\n   },\r\n   \"outputs\": [],\r\n   \"source\": [\r\n    \"import pandas as pd\\n\",\r\n    \"import numpy as np\\n\",\r\n    \"from matplotlib import pyplot as plt\"\r\n   ]\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": \"         country  year iso_code  population  gdp  biofuel_cons_change_pct  \\\\\\n0  ASEAN (Ember)  2000      NaN         NaN  NaN                      NaN   \\n1  ASEAN (Ember)  2001      NaN         NaN  NaN                      NaN   \\n2  ASEAN (Ember)  2002      NaN         NaN  NaN                      NaN   \\n3  ASEAN (Ember)  2003      NaN         NaN  NaN                      NaN   \\n4  ASEAN (Ember)  2004      NaN         NaN  NaN                      NaN   \\n\\n   biofuel_cons_change_twh  biofuel_cons_per_capita  biofuel_consumption  \\\\\\n0                      NaN                      NaN                  NaN   \\n1                      NaN                      NaN                  NaN   \\n2                      NaN                      NaN                  NaN   \\n3                      NaN                      NaN                  NaN   \\n4                      NaN                      NaN                  NaN   \\n\\n   biofuel_elec_per_capita  ...  solar_share_elec  solar_share_energy  \\\\\\n0                      NaN  ...               0.0                 NaN   \\n1                      NaN  ...               0.0                 NaN   \\n2                      NaN  ...               0.0                 NaN   \\n3                      NaN  ...               0.0                 NaN   \\n4                      NaN  ...               0.0                 NaN   \\n\\n   wind_cons_change_pct  wind_cons_change_twh  wind_consumption  \\\\\\n0                   NaN                   NaN               NaN   \\n1                   NaN                   NaN               NaN   \\n2                   NaN                   NaN               NaN   \\n3                   NaN                   NaN               NaN   \\n4                   NaN                   NaN               NaN   \\n\\n   wind_elec_per_capita  wind_electricity  wind_energy_per_capita  \\\\\\n0                   NaN               0.0                     NaN   \\n1                   NaN               0.0                     NaN   \\n2                   NaN               0.0                     NaN   \\n3                   NaN               0.0                     NaN   \\n4                   NaN               0.0                     NaN   \\n\\n   wind_share_elec  wind_share_energy  \\n0              0.0                NaN  \\n1              0.0                NaN  \\n2              0.0                NaN  \\n3              0.0                NaN  \\n4              0.0                NaN  \\n\\n[5 rows x 129 columns]\",\r\n      \"text/html\": \"<div>\\n<style scoped>\\n    .dataframe tbody tr th:only-of-type {\\n        vertical-align: middle;\\n    }\\n\\n    .dataframe tbody tr th {\\n        vertical-align: top;\\n    }\\n\\n    .dataframe thead th {\\n        text-align: right;\\n    }\\n</style>\\n<table border=\\\"1\\\" class=\\\"dataframe\\\">\\n  <thead>\\n    <tr style=\\\"text-align: right;\\\">\\n      <th></th>\\n      <th>country</th>\\n      <th>year</th>\\n      <th>iso_code</th>\\n      <th>population</th>\\n      <th>gdp</th>\\n      <th>biofuel_cons_change_pct</th>\\n      <th>biofuel_cons_change_twh</th>\\n      <th>biofuel_cons_per_capita</th>\\n      <th>biofuel_consumption</th>\\n      <th>biofuel_elec_per_capita</th>\\n      <th>...</th>\\n      <th>solar_share_elec</th>\\n      <th>solar_share_energy</th>\\n      <th>wind_cons_change_pct</th>\\n      <th>wind_cons_change_twh</th>\\n      <th>wind_consumption</th>\\n      <th>wind_elec_per_capita</th>\\n      <th>wind_electricity</th>\\n      <th>wind_energy_per_capita</th>\\n      <th>wind_share_elec</th>\\n      <th>wind_share_energy</th>\\n    </tr>\\n  </thead>\\n  <tbody>\\n    <tr>\\n      <th>0</th>\\n      <td>ASEAN (Ember)</td>\\n      <td>2000</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>...</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n    </tr>\\n    <tr>\\n      <th>1</th>\\n      <td>ASEAN (Ember)</td>\\n      <td>2001</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>...</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n    </tr>\\n    <tr>\\n      <th>2</th>\\n      <td>ASEAN (Ember)</td>\\n      <td>2002</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>...</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n    </tr>\\n    <tr>\\n      <th>3</th>\\n      <td>ASEAN (Ember)</td>\\n      <td>2003</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>...</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n    </tr>\\n    <tr>\\n      <th>4</th>\\n      <td>ASEAN (Ember)</td>\\n      <td>2004</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>...</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>NaN</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n      <td>0.0</td>\\n      <td>NaN</td>\\n    </tr>\\n  </tbody>\\n</table>\\n<p>5 rows × 129 columns</p>\\n</div>\"\r\n     },\r\n     \"execution_count\": 8,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"df = pd.read_csv('./assets/World Energy Consumption.csv')\\n\",\r\n    \"df.head(5)\\n\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-26T18:14:24.700364900Z\",\r\n     \"start_time\": \"2024-02-26T18:14:24.610605100Z\"\r\n    }\r\n   },\r\n   \"id\": \"ad551045be2dc47a\",\r\n   \"execution_count\": 8\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": \"Index(['country', 'year', 'iso_code', 'population', 'gdp',\\n       'biofuel_cons_change_pct', 'biofuel_cons_change_twh',\\n       'biofuel_cons_per_capita', 'biofuel_consumption',\\n       'biofuel_elec_per_capita',\\n       ...\\n       'solar_share_elec', 'solar_share_energy', 'wind_cons_change_pct',\\n       'wind_cons_change_twh', 'wind_consumption', 'wind_elec_per_capita',\\n       'wind_electricity', 'wind_energy_per_capita', 'wind_share_elec',\\n       'wind_share_energy'],\\n      dtype='object', length=129)\"\r\n     },\r\n     \"execution_count\": 9,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"df.columns\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-26T18:14:24.702753700Z\",\r\n     \"start_time\": \"2024-02-26T18:14:24.699366300Z\"\r\n    }\r\n   },\r\n   \"id\": \"842f6e1f2757c864\",\r\n   \"execution_count\": 9\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": \"country                    object\\nyear                        int64\\niso_code                   object\\npopulation                float64\\ngdp                       float64\\n                           ...   \\nwind_elec_per_capita      float64\\nwind_electricity          float64\\nwind_energy_per_capita    float64\\nwind_share_elec           float64\\nwind_share_energy         float64\\nLength: 129, dtype: object\"\r\n     },\r\n     \"execution_count\": 10,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"df.dtypes\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-26T18:14:24.708072200Z\",\r\n     \"start_time\": \"2024-02-26T18:14:24.702753700Z\"\r\n    }\r\n   },\r\n   \"id\": \"3b7fdd18c2095b05\",\r\n   \"execution_count\": 10\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": \"array(['ASEAN (Ember)', 'Afghanistan', 'Africa', 'Africa (EI)',\\n       'Africa (Ember)', 'Africa (Shift)', 'Albania', 'Algeria',\\n       'American Samoa', 'Angola', 'Antarctica', 'Antigua and Barbuda',\\n       'Argentina', 'Armenia', 'Aruba', 'Asia', 'Asia & Oceania (EIA)',\\n       'Asia (Ember)', 'Asia Pacific (EI)', 'Asia and Oceania (Shift)',\\n       'Australia', 'Australia and New Zealand (EIA)', 'Austria',\\n       'Azerbaijan', 'Bahamas', 'Bahrain', 'Bangladesh', 'Barbados',\\n       'Belarus', 'Belgium', 'Belize', 'Benin', 'Bermuda', 'Bhutan',\\n       'Bolivia', 'Bosnia and Herzegovina', 'Botswana', 'Brazil',\\n       'British Virgin Islands', 'Brunei', 'Bulgaria', 'Burkina Faso',\\n       'Burundi', 'CIS (EI)', 'Cambodia', 'Cameroon', 'Canada',\\n       'Cape Verde', 'Cayman Islands', 'Central & South America (EIA)',\\n       'Central African Republic', 'Central America (EI)',\\n       'Central and South America (Shift)', 'Chad', 'Chile', 'China',\\n       'Colombia', 'Comoros', 'Congo', 'Cook Islands', 'Costa Rica',\\n       \\\"Cote d'Ivoire\\\", 'Croatia', 'Cuba', 'Cyprus', 'Czechia',\\n       'Czechoslovakia', 'Democratic Republic of Congo', 'Denmark',\\n       'Djibouti', 'Dominica', 'Dominican Republic', 'EU28 (Shift)',\\n       'East Germany (EIA)', 'East Timor', 'Eastern Africa (EI)',\\n       'Ecuador', 'Egypt', 'El Salvador', 'Equatorial Guinea', 'Eritrea',\\n       'Estonia', 'Eswatini', 'Ethiopia', 'Eurasia (EIA)',\\n       'Eurasia (Shift)', 'Europe', 'Europe (EI)', 'Europe (Ember)',\\n       'Europe (Shift)', 'European Union (27)', 'European Union (EIA)',\\n       'Falkland Islands', 'Faroe Islands', 'Fiji', 'Finland', 'France',\\n       'French Guiana', 'French Polynesia', 'G20 (Ember)', 'G7 (Ember)',\\n       'Gabon', 'Gambia', 'Georgia', 'Germany', 'Ghana', 'Gibraltar',\\n       'Greece', 'Greenland', 'Grenada', 'Guadeloupe', 'Guam',\\n       'Guatemala', 'Guinea', 'Guinea-Bissau', 'Guyana', 'Haiti',\\n       'Hawaiian Trade Zone (EIA)', 'High-income countries', 'Honduras',\\n       'Hong Kong', 'Hungary', 'IEO - Africa (EIA)',\\n       'IEO - Middle East (EIA)', 'IEO OECD - Europe (EIA)', 'Iceland',\\n       'India', 'Indonesia', 'Iran', 'Iraq', 'Ireland', 'Israel', 'Italy',\\n       'Jamaica', 'Japan', 'Jordan', 'Kazakhstan', 'Kenya', 'Kiribati',\\n       'Kosovo', 'Kuwait', 'Kyrgyzstan', 'Laos',\\n       'Latin America and Caribbean (Ember)', 'Latvia', 'Lebanon',\\n       'Lesotho', 'Liberia', 'Libya', 'Lithuania', 'Low-income countries',\\n       'Lower-middle-income countries', 'Luxembourg', 'Macao',\\n       'Madagascar', 'Malawi', 'Malaysia', 'Maldives', 'Mali', 'Malta',\\n       'Martinique', 'Mauritania', 'Mauritius', 'Mexico',\\n       'Mexico, Chile, and other OECD Americas (EIA)',\\n       'Micronesia (country)', 'Middle Africa (EI)', 'Middle East (EI)',\\n       'Middle East (EIA)', 'Middle East (Ember)', 'Middle East (Shift)',\\n       'Moldova', 'Mongolia', 'Montenegro', 'Montserrat', 'Morocco',\\n       'Mozambique', 'Myanmar', 'Namibia', 'Nauru', 'Nepal',\\n       'Netherlands', 'Netherlands Antilles', 'New Caledonia',\\n       'New Zealand', 'Nicaragua', 'Niger', 'Nigeria', 'Niue',\\n       'Non-OECD (EI)', 'Non-OECD (EIA)', 'Non-OPEC (EI)',\\n       'Non-OPEC (EIA)', 'North America', 'North America (EI)',\\n       'North America (Ember)', 'North America (Shift)', 'North Korea',\\n       'North Macedonia', 'Northern Mariana Islands', 'Norway',\\n       'OECD (EI)', 'OECD (EIA)', 'OECD (Ember)', 'OECD (Shift)',\\n       'OECD - Asia And Oceania (EIA)', 'OECD - Europe (EIA)',\\n       'OECD - North America (EIA)', 'OPEC (EI)', 'OPEC (EIA)',\\n       'OPEC (Shift)', 'OPEC - Africa (EIA)',\\n       'OPEC - South America (EIA)', 'Oceania', 'Oceania (Ember)', 'Oman',\\n       'Other Non-OECD - America (EIA)', 'Other Non-OECD - Asia (EIA)',\\n       'Other Non-OECD - Europe and Eurasia (EIA)', 'Pakistan',\\n       'Palestine', 'Panama', 'Papua New Guinea', 'Paraguay',\\n       'Persian Gulf (EIA)', 'Persian Gulf (Shift)', 'Peru',\\n       'Philippines', 'Poland', 'Portugal', 'Puerto Rico', 'Qatar',\\n       'Reunion', 'Romania', 'Russia', 'Rwanda', 'Saint Helena',\\n       'Saint Kitts and Nevis', 'Saint Lucia',\\n       'Saint Pierre and Miquelon', 'Saint Vincent and the Grenadines',\\n       'Samoa', 'Sao Tome and Principe', 'Saudi Arabia', 'Senegal',\\n       'Serbia', 'Serbia and Montenegro', 'Seychelles', 'Sierra Leone',\\n       'Singapore', 'Slovakia', 'Slovenia', 'Solomon Islands', 'Somalia',\\n       'South Africa', 'South America', 'South Korea',\\n       'South Korea and other OECD Asia (EIA)', 'South Sudan',\\n       'South and Central America (EI)', 'Spain', 'Sri Lanka', 'Sudan',\\n       'Suriname', 'Sweden', 'Switzerland', 'Syria', 'Taiwan',\\n       'Tajikistan', 'Tanzania', 'Thailand', 'Togo', 'Tonga',\\n       'Trinidad and Tobago', 'Tunisia', 'Turkey', 'Turkmenistan',\\n       'Turks and Caicos Islands', 'Tuvalu', 'U.S. Pacific Islands (EIA)',\\n       'U.S. Territories (EIA)', 'USSR', 'Uganda', 'Ukraine',\\n       'United Arab Emirates', 'United Kingdom', 'United States',\\n       'United States Pacific Islands (Shift)',\\n       'United States Territories (Shift)',\\n       'United States Virgin Islands', 'Upper-middle-income countries',\\n       'Uruguay', 'Uzbekistan', 'Vanuatu', 'Venezuela', 'Vietnam',\\n       'Wake Island (EIA)', 'Wake Island (Shift)', 'West Germany (EIA)',\\n       'Western Africa (EI)', 'Western Sahara', 'World', 'Yemen',\\n       'Yugoslavia', 'Zambia', 'Zimbabwe'], dtype=object)\"\r\n     },\r\n     \"execution_count\": 11,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"pd.unique(df.country)\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-26T18:14:24.713560200Z\",\r\n     \"start_time\": \"2024-02-26T18:14:24.707072200Z\"\r\n    }\r\n   },\r\n   \"id\": \"9331d2d300e0bd42\",\r\n   \"execution_count\": 11\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [\r\n    {\r\n     \"data\": {\r\n      \"text/plain\": \"array([2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,\\n       2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021,\\n       2022, 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909,\\n       1910, 1911, 1912, 1913, 1914, 1915, 1916, 1917, 1918, 1919, 1920,\\n       1921, 1922, 1923, 1924, 1925, 1926, 1927, 1928, 1929, 1930, 1931,\\n       1932, 1933, 1934, 1935, 1936, 1937, 1938, 1939, 1940, 1941, 1942,\\n       1943, 1944, 1945, 1946, 1947, 1948, 1949, 1950, 1951, 1952, 1953,\\n       1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964,\\n       1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975,\\n       1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986,\\n       1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997,\\n       1998, 1999], dtype=int64)\"\r\n     },\r\n     \"execution_count\": 12,\r\n     \"metadata\": {},\r\n     \"output_type\": \"execute_result\"\r\n    }\r\n   ],\r\n   \"source\": [\r\n    \"pd.unique(df.year)\"\r\n   ],\r\n   \"metadata\": {\r\n    \"collapsed\": false,\r\n    \"ExecuteTime\": {\r\n     \"end_time\": \"2024-02-26T18:15:10.311384700Z\",\r\n     \"start_time\": \"2024-02-26T18:15:10.302878800Z\"\r\n    }\r\n   },\r\n   \"id\": \"c41cb075f2062110\",\r\n   \"execution_count\": 12\r\n  },\r\n  {\r\n   \"cell_type\": \"code\",\r\n   \"outputs\": [],\r\n   \"source\": [],\r\n   \"metadata\": {\r\n    \"collapsed\": false\r\n   },\r\n   \"id\": \"f78f977fec0a382b\"\r\n  }\r\n ],\r\n \"metadata\": {\r\n  \"kernelspec\": {\r\n   \"display_name\": \"Python 3\",\r\n   \"language\": \"python\",\r\n   \"name\": \"python3\"\r\n  },\r\n  \"language_info\": {\r\n   \"codemirror_mode\": {\r\n    \"name\": \"ipython\",\r\n    \"version\": 2\r\n   },\r\n   \"file_extension\": \".py\",\r\n   \"mimetype\": \"text/x-python\",\r\n   \"name\": \"python\",\r\n   \"nbconvert_exporter\": \"python\",\r\n   \"pygments_lexer\": \"ipython2\",\r\n   \"version\": \"2.7.6\"\r\n  }\r\n },\r\n \"nbformat\": 4,\r\n \"nbformat_minor\": 5\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/transform_wec.ipynb b/transform_wec.ipynb
+--- a/transform_wec.ipynb	(revision c736df10544931538b2520a979b24fb87bc35299)
++++ b/transform_wec.ipynb	(date 1709054867054)
+@@ -2,16 +2,31 @@
+  "cells": [
+   {
+    "cell_type": "code",
+-   "execution_count": 7,
++   "execution_count": 1,
+    "id": "initial_id",
+    "metadata": {
+     "collapsed": true,
+     "ExecuteTime": {
+-     "end_time": "2024-02-26T18:14:24.607605200Z",
+-     "start_time": "2024-02-26T18:14:24.606097100Z"
++     "end_time": "2024-02-27T17:14:12.290463Z",
++     "start_time": "2024-02-27T17:14:11.507724Z"
+     }
+    },
+-   "outputs": [],
++   "outputs": [
++    {
++     "name": "stderr",
++     "output_type": "stream",
++     "text": [
++      "C:\\Users\\theor\\AppData\\Local\\Temp\\ipykernel_16452\\929287709.py:1: DeprecationWarning: \n",
++      "Pyarrow will become a required dependency of pandas in the next major release of pandas (pandas 3.0),\n",
++      "(to allow more performant data types, such as the Arrow string type, and better interoperability with other libraries)\n",
++      "but was not found to be installed on your system.\n",
++      "If this would cause problems for you,\n",
++      "please provide us feedback at https://github.com/pandas-dev/pandas/issues/54466\n",
++      "        \n",
++      "  import pandas as pd\n"
++     ]
++    }
++   ],
+    "source": [
+     "import pandas as pd\n",
+     "import numpy as np\n",
+@@ -26,7 +41,7 @@
+       "text/plain": "         country  year iso_code  population  gdp  biofuel_cons_change_pct  \\\n0  ASEAN (Ember)  2000      NaN         NaN  NaN                      NaN   \n1  ASEAN (Ember)  2001      NaN         NaN  NaN                      NaN   \n2  ASEAN (Ember)  2002      NaN         NaN  NaN                      NaN   \n3  ASEAN (Ember)  2003      NaN         NaN  NaN                      NaN   \n4  ASEAN (Ember)  2004      NaN         NaN  NaN                      NaN   \n\n   biofuel_cons_change_twh  biofuel_cons_per_capita  biofuel_consumption  \\\n0                      NaN                      NaN                  NaN   \n1                      NaN                      NaN                  NaN   \n2                      NaN                      NaN                  NaN   \n3                      NaN                      NaN                  NaN   \n4                      NaN                      NaN                  NaN   \n\n   biofuel_elec_per_capita  ...  solar_share_elec  solar_share_energy  \\\n0                      NaN  ...               0.0                 NaN   \n1                      NaN  ...               0.0                 NaN   \n2                      NaN  ...               0.0                 NaN   \n3                      NaN  ...               0.0                 NaN   \n4                      NaN  ...               0.0                 NaN   \n\n   wind_cons_change_pct  wind_cons_change_twh  wind_consumption  \\\n0                   NaN                   NaN               NaN   \n1                   NaN                   NaN               NaN   \n2                   NaN                   NaN               NaN   \n3                   NaN                   NaN               NaN   \n4                   NaN                   NaN               NaN   \n\n   wind_elec_per_capita  wind_electricity  wind_energy_per_capita  \\\n0                   NaN               0.0                     NaN   \n1                   NaN               0.0                     NaN   \n2                   NaN               0.0                     NaN   \n3                   NaN               0.0                     NaN   \n4                   NaN               0.0                     NaN   \n\n   wind_share_elec  wind_share_energy  \n0              0.0                NaN  \n1              0.0                NaN  \n2              0.0                NaN  \n3              0.0                NaN  \n4              0.0                NaN  \n\n[5 rows x 129 columns]",
+       "text/html": "<div>\n<style scoped>\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>country</th>\n      <th>year</th>\n      <th>iso_code</th>\n      <th>population</th>\n      <th>gdp</th>\n      <th>biofuel_cons_change_pct</th>\n      <th>biofuel_cons_change_twh</th>\n      <th>biofuel_cons_per_capita</th>\n      <th>biofuel_consumption</th>\n      <th>biofuel_elec_per_capita</th>\n      <th>...</th>\n      <th>solar_share_elec</th>\n      <th>solar_share_energy</th>\n      <th>wind_cons_change_pct</th>\n      <th>wind_cons_change_twh</th>\n      <th>wind_consumption</th>\n      <th>wind_elec_per_capita</th>\n      <th>wind_electricity</th>\n      <th>wind_energy_per_capita</th>\n      <th>wind_share_elec</th>\n      <th>wind_share_energy</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>ASEAN (Ember)</td>\n      <td>2000</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>...</td>\n      <td>0.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>ASEAN (Ember)</td>\n      <td>2001</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>...</td>\n      <td>0.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>ASEAN (Ember)</td>\n      <td>2002</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>...</td>\n      <td>0.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>ASEAN (Ember)</td>\n      <td>2003</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>...</td>\n      <td>0.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>ASEAN (Ember)</td>\n      <td>2004</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>...</td>\n      <td>0.0</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>NaN</td>\n      <td>0.0</td>\n      <td>NaN</td>\n    </tr>\n  </tbody>\n</table>\n<p>5 rows × 129 columns</p>\n</div>"
+      },
+-     "execution_count": 8,
++     "execution_count": 2,
+      "metadata": {},
+      "output_type": "execute_result"
+     }
+@@ -38,12 +53,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-26T18:14:24.700364900Z",
+-     "start_time": "2024-02-26T18:14:24.610605100Z"
++     "end_time": "2024-02-27T17:14:12.429925Z",
++     "start_time": "2024-02-27T17:14:12.292469Z"
+     }
+    },
+    "id": "ad551045be2dc47a",
+-   "execution_count": 8
++   "execution_count": 2
+   },
+   {
+    "cell_type": "code",
+@@ -52,7 +67,7 @@
+      "data": {
+       "text/plain": "Index(['country', 'year', 'iso_code', 'population', 'gdp',\n       'biofuel_cons_change_pct', 'biofuel_cons_change_twh',\n       'biofuel_cons_per_capita', 'biofuel_consumption',\n       'biofuel_elec_per_capita',\n       ...\n       'solar_share_elec', 'solar_share_energy', 'wind_cons_change_pct',\n       'wind_cons_change_twh', 'wind_consumption', 'wind_elec_per_capita',\n       'wind_electricity', 'wind_energy_per_capita', 'wind_share_elec',\n       'wind_share_energy'],\n      dtype='object', length=129)"
+      },
+-     "execution_count": 9,
++     "execution_count": 3,
+      "metadata": {},
+      "output_type": "execute_result"
+     }
+@@ -63,12 +78,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-26T18:14:24.702753700Z",
+-     "start_time": "2024-02-26T18:14:24.699366300Z"
++     "end_time": "2024-02-27T17:14:12.437458Z",
++     "start_time": "2024-02-27T17:14:12.431439Z"
+     }
+    },
+    "id": "842f6e1f2757c864",
+-   "execution_count": 9
++   "execution_count": 3
+   },
+   {
+    "cell_type": "code",
+@@ -77,7 +92,7 @@
+      "data": {
+       "text/plain": "country                    object\nyear                        int64\niso_code                   object\npopulation                float64\ngdp                       float64\n                           ...   \nwind_elec_per_capita      float64\nwind_electricity          float64\nwind_energy_per_capita    float64\nwind_share_elec           float64\nwind_share_energy         float64\nLength: 129, dtype: object"
+      },
+-     "execution_count": 10,
++     "execution_count": 4,
+      "metadata": {},
+      "output_type": "execute_result"
+     }
+@@ -88,12 +103,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-26T18:14:24.708072200Z",
+-     "start_time": "2024-02-26T18:14:24.702753700Z"
++     "end_time": "2024-02-27T17:14:12.446710Z",
++     "start_time": "2024-02-27T17:14:12.438465Z"
+     }
+    },
+    "id": "3b7fdd18c2095b05",
+-   "execution_count": 10
++   "execution_count": 4
+   },
+   {
+    "cell_type": "code",
+@@ -102,7 +117,7 @@
+      "data": {
+       "text/plain": "array(['ASEAN (Ember)', 'Afghanistan', 'Africa', 'Africa (EI)',\n       'Africa (Ember)', 'Africa (Shift)', 'Albania', 'Algeria',\n       'American Samoa', 'Angola', 'Antarctica', 'Antigua and Barbuda',\n       'Argentina', 'Armenia', 'Aruba', 'Asia', 'Asia & Oceania (EIA)',\n       'Asia (Ember)', 'Asia Pacific (EI)', 'Asia and Oceania (Shift)',\n       'Australia', 'Australia and New Zealand (EIA)', 'Austria',\n       'Azerbaijan', 'Bahamas', 'Bahrain', 'Bangladesh', 'Barbados',\n       'Belarus', 'Belgium', 'Belize', 'Benin', 'Bermuda', 'Bhutan',\n       'Bolivia', 'Bosnia and Herzegovina', 'Botswana', 'Brazil',\n       'British Virgin Islands', 'Brunei', 'Bulgaria', 'Burkina Faso',\n       'Burundi', 'CIS (EI)', 'Cambodia', 'Cameroon', 'Canada',\n       'Cape Verde', 'Cayman Islands', 'Central & South America (EIA)',\n       'Central African Republic', 'Central America (EI)',\n       'Central and South America (Shift)', 'Chad', 'Chile', 'China',\n       'Colombia', 'Comoros', 'Congo', 'Cook Islands', 'Costa Rica',\n       \"Cote d'Ivoire\", 'Croatia', 'Cuba', 'Cyprus', 'Czechia',\n       'Czechoslovakia', 'Democratic Republic of Congo', 'Denmark',\n       'Djibouti', 'Dominica', 'Dominican Republic', 'EU28 (Shift)',\n       'East Germany (EIA)', 'East Timor', 'Eastern Africa (EI)',\n       'Ecuador', 'Egypt', 'El Salvador', 'Equatorial Guinea', 'Eritrea',\n       'Estonia', 'Eswatini', 'Ethiopia', 'Eurasia (EIA)',\n       'Eurasia (Shift)', 'Europe', 'Europe (EI)', 'Europe (Ember)',\n       'Europe (Shift)', 'European Union (27)', 'European Union (EIA)',\n       'Falkland Islands', 'Faroe Islands', 'Fiji', 'Finland', 'France',\n       'French Guiana', 'French Polynesia', 'G20 (Ember)', 'G7 (Ember)',\n       'Gabon', 'Gambia', 'Georgia', 'Germany', 'Ghana', 'Gibraltar',\n       'Greece', 'Greenland', 'Grenada', 'Guadeloupe', 'Guam',\n       'Guatemala', 'Guinea', 'Guinea-Bissau', 'Guyana', 'Haiti',\n       'Hawaiian Trade Zone (EIA)', 'High-income countries', 'Honduras',\n       'Hong Kong', 'Hungary', 'IEO - Africa (EIA)',\n       'IEO - Middle East (EIA)', 'IEO OECD - Europe (EIA)', 'Iceland',\n       'India', 'Indonesia', 'Iran', 'Iraq', 'Ireland', 'Israel', 'Italy',\n       'Jamaica', 'Japan', 'Jordan', 'Kazakhstan', 'Kenya', 'Kiribati',\n       'Kosovo', 'Kuwait', 'Kyrgyzstan', 'Laos',\n       'Latin America and Caribbean (Ember)', 'Latvia', 'Lebanon',\n       'Lesotho', 'Liberia', 'Libya', 'Lithuania', 'Low-income countries',\n       'Lower-middle-income countries', 'Luxembourg', 'Macao',\n       'Madagascar', 'Malawi', 'Malaysia', 'Maldives', 'Mali', 'Malta',\n       'Martinique', 'Mauritania', 'Mauritius', 'Mexico',\n       'Mexico, Chile, and other OECD Americas (EIA)',\n       'Micronesia (country)', 'Middle Africa (EI)', 'Middle East (EI)',\n       'Middle East (EIA)', 'Middle East (Ember)', 'Middle East (Shift)',\n       'Moldova', 'Mongolia', 'Montenegro', 'Montserrat', 'Morocco',\n       'Mozambique', 'Myanmar', 'Namibia', 'Nauru', 'Nepal',\n       'Netherlands', 'Netherlands Antilles', 'New Caledonia',\n       'New Zealand', 'Nicaragua', 'Niger', 'Nigeria', 'Niue',\n       'Non-OECD (EI)', 'Non-OECD (EIA)', 'Non-OPEC (EI)',\n       'Non-OPEC (EIA)', 'North America', 'North America (EI)',\n       'North America (Ember)', 'North America (Shift)', 'North Korea',\n       'North Macedonia', 'Northern Mariana Islands', 'Norway',\n       'OECD (EI)', 'OECD (EIA)', 'OECD (Ember)', 'OECD (Shift)',\n       'OECD - Asia And Oceania (EIA)', 'OECD - Europe (EIA)',\n       'OECD - North America (EIA)', 'OPEC (EI)', 'OPEC (EIA)',\n       'OPEC (Shift)', 'OPEC - Africa (EIA)',\n       'OPEC - South America (EIA)', 'Oceania', 'Oceania (Ember)', 'Oman',\n       'Other Non-OECD - America (EIA)', 'Other Non-OECD - Asia (EIA)',\n       'Other Non-OECD - Europe and Eurasia (EIA)', 'Pakistan',\n       'Palestine', 'Panama', 'Papua New Guinea', 'Paraguay',\n       'Persian Gulf (EIA)', 'Persian Gulf (Shift)', 'Peru',\n       'Philippines', 'Poland', 'Portugal', 'Puerto Rico', 'Qatar',\n       'Reunion', 'Romania', 'Russia', 'Rwanda', 'Saint Helena',\n       'Saint Kitts and Nevis', 'Saint Lucia',\n       'Saint Pierre and Miquelon', 'Saint Vincent and the Grenadines',\n       'Samoa', 'Sao Tome and Principe', 'Saudi Arabia', 'Senegal',\n       'Serbia', 'Serbia and Montenegro', 'Seychelles', 'Sierra Leone',\n       'Singapore', 'Slovakia', 'Slovenia', 'Solomon Islands', 'Somalia',\n       'South Africa', 'South America', 'South Korea',\n       'South Korea and other OECD Asia (EIA)', 'South Sudan',\n       'South and Central America (EI)', 'Spain', 'Sri Lanka', 'Sudan',\n       'Suriname', 'Sweden', 'Switzerland', 'Syria', 'Taiwan',\n       'Tajikistan', 'Tanzania', 'Thailand', 'Togo', 'Tonga',\n       'Trinidad and Tobago', 'Tunisia', 'Turkey', 'Turkmenistan',\n       'Turks and Caicos Islands', 'Tuvalu', 'U.S. Pacific Islands (EIA)',\n       'U.S. Territories (EIA)', 'USSR', 'Uganda', 'Ukraine',\n       'United Arab Emirates', 'United Kingdom', 'United States',\n       'United States Pacific Islands (Shift)',\n       'United States Territories (Shift)',\n       'United States Virgin Islands', 'Upper-middle-income countries',\n       'Uruguay', 'Uzbekistan', 'Vanuatu', 'Venezuela', 'Vietnam',\n       'Wake Island (EIA)', 'Wake Island (Shift)', 'West Germany (EIA)',\n       'Western Africa (EI)', 'Western Sahara', 'World', 'Yemen',\n       'Yugoslavia', 'Zambia', 'Zimbabwe'], dtype=object)"
+      },
+-     "execution_count": 11,
++     "execution_count": 5,
+      "metadata": {},
+      "output_type": "execute_result"
+     }
+@@ -113,12 +128,12 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-26T18:14:24.713560200Z",
+-     "start_time": "2024-02-26T18:14:24.707072200Z"
++     "end_time": "2024-02-27T17:14:12.458090Z",
++     "start_time": "2024-02-27T17:14:12.449716Z"
+     }
+    },
+    "id": "9331d2d300e0bd42",
+-   "execution_count": 11
++   "execution_count": 5
+   },
+   {
+    "cell_type": "code",
+@@ -127,7 +142,7 @@
+      "data": {
+       "text/plain": "array([2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,\n       2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021,\n       2022, 1900, 1901, 1902, 1903, 1904, 1905, 1906, 1907, 1908, 1909,\n       1910, 1911, 1912, 1913, 1914, 1915, 1916, 1917, 1918, 1919, 1920,\n       1921, 1922, 1923, 1924, 1925, 1926, 1927, 1928, 1929, 1930, 1931,\n       1932, 1933, 1934, 1935, 1936, 1937, 1938, 1939, 1940, 1941, 1942,\n       1943, 1944, 1945, 1946, 1947, 1948, 1949, 1950, 1951, 1952, 1953,\n       1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964,\n       1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975,\n       1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986,\n       1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997,\n       1998, 1999], dtype=int64)"
+      },
+-     "execution_count": 12,
++     "execution_count": 6,
+      "metadata": {},
+      "output_type": "execute_result"
+     }
+@@ -138,21 +153,26 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-02-26T18:15:10.311384700Z",
+-     "start_time": "2024-02-26T18:15:10.302878800Z"
++     "end_time": "2024-02-27T17:14:12.465642Z",
++     "start_time": "2024-02-27T17:14:12.459096Z"
+     }
+    },
+    "id": "c41cb075f2062110",
+-   "execution_count": 12
++   "execution_count": 6
+   },
+   {
+    "cell_type": "code",
+    "outputs": [],
+    "source": [],
+    "metadata": {
+-    "collapsed": false
++    "collapsed": false,
++    "ExecuteTime": {
++     "end_time": "2024-02-27T17:14:12.470152Z",
++     "start_time": "2024-02-27T17:14:12.466649Z"
++    }
+    },
+-   "id": "f78f977fec0a382b"
++   "id": "f78f977fec0a382b",
++   "execution_count": 6
+   }
+  ],
+  "metadata": {
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"2786ce56-8417-4fd5-a4dc-fcd9a4339515\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/output/World Energy Consumption (limited).csv\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/transform_co2.ipynb\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/transform_co2.ipynb\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Jupyter Notebook\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 3\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2cuo8vEdE4DYJWsB1cNXBtdjup1\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\W0lle\\Codes\\datawarehouse\\assets\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"2786ce56-8417-4fd5-a4dc-fcd9a4339515\" name=\"Changes\" comment=\"\" />\r\n      <created>1708970669215</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1708970669215</updated>\r\n      <workItem from=\"1708970674637\" duration=\"1959000\" />\r\n      <workItem from=\"1709037016800\" duration=\"15329000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c736df10544931538b2520a979b24fb87bc35299)
++++ b/.idea/workspace.xml	(date 1709055556343)
+@@ -5,9 +5,12 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="2786ce56-8417-4fd5-a4dc-fcd9a4339515" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/datawarehouse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datawarehouse.iml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/output/World Energy Consumption (limited).csv" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/output/CO2_Emissions_sortedByYearAndCountry.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/CO2_Emissions_sortedByYearAndCountry.csv" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/transform_co2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transform_co2.ipynb" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/transform_wec.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transform_wec.ipynb" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -23,6 +26,9 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="ProblemsViewState">
++    <option name="selectedTabId" value="CurrentFile" />
+   </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 3
+@@ -75,4 +81,15 @@
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+ </project>
+\ No newline at end of file
+Index: .idea/datawarehouse.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/.venv\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/datawarehouse.iml b/.idea/datawarehouse.iml
+--- a/.idea/datawarehouse.iml	(revision c736df10544931538b2520a979b24fb87bc35299)
++++ b/.idea/datawarehouse.iml	(date 1709054869365)
+@@ -4,7 +4,7 @@
+     <content url="file://$MODULE_DIR$">
+       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+     </content>
+-    <orderEntry type="inheritedJdk" />
++    <orderEntry type="jdk" jdkName="Python 3.12 (datawarehouse)" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
