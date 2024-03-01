@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2786ce56-8417-4fd5-a4dc-fcd9a4339515" name="Changes" comment="nettoyage fini des données taxes énergies">
+    <list default="true" id="2786ce56-8417-4fd5-a4dc-fcd9a4339515" name="Changes" comment="Tax_Energy fusionné avec dataset World Energy Consumption pour dataset final World_Energy_Consumption_Full.csv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Tax_Energy_clear.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/World Energy Consumption (limited).csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/World Energy Consumption (limited).csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/transform_co2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transform_co2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +93,8 @@
       <workItem from="1709300080931" duration="9192000" />
       <workItem from="1709316723297" duration="271000" />
       <workItem from="1709317009712" duration="724000" />
-      <workItem from="1709317753644" duration="206000" />
+      <workItem from="1709317753644" duration="385000" />
+      <workItem from="1709318175336" duration="1004000" />
     </task>
     <task id="LOCAL-00001" summary="Insertion des données de pollution dans fichier WEC (limited)">
       <option name="closed" value="true" />
@@ -129,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709306213191</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Tax_Energy fusionné avec dataset World Energy Consumption pour dataset final World_Energy_Consumption_Full.csv">
+      <option name="closed" value="true" />
+      <created>1709318111154</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709318111154</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +146,7 @@
     <MESSAGE value="Insertion des données de pollution dans fichier WEC (limited)" />
     <MESSAGE value="Ajout royaume uni" />
     <MESSAGE value="nettoyage fini des données taxes énergies" />
-    <option name="LAST_COMMIT_MESSAGE" value="nettoyage fini des données taxes énergies" />
+    <MESSAGE value="Tax_Energy fusionné avec dataset World Energy Consumption pour dataset final World_Energy_Consumption_Full.csv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tax_Energy fusionné avec dataset World Energy Consumption pour dataset final World_Energy_Consumption_Full.csv" />
   </component>
 </project>
