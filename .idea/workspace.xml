@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2786ce56-8417-4fd5-a4dc-fcd9a4339515" name="Changes" comment="Tax_Energy fusionné avec dataset World Energy Consumption pour dataset final World_Energy_Consumption_Full.csv">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/World_Energy_Consumption_Full2.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/transform_co2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transform_co2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,6 +96,7 @@
       <workItem from="1709317009712" duration="724000" />
       <workItem from="1709317753644" duration="385000" />
       <workItem from="1709318175336" duration="1004000" />
+      <workItem from="1709500613954" duration="740000" />
     </task>
     <task id="LOCAL-00001" summary="Insertion des données de pollution dans fichier WEC (limited)">
       <option name="closed" value="true" />
@@ -141,6 +143,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Insertion des données de pollution dans fichier WEC (limited)" />
