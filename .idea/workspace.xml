@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2786ce56-8417-4fd5-a4dc-fcd9a4339515" name="Changes" comment="suppression fichiers inutiles">
+    <list default="true" id="2786ce56-8417-4fd5-a4dc-fcd9a4339515" name="Changes" comment="renommer toutes les colonnes avec les unités pour tous les datasets">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/CO2_Emissions_sortedByYearAndCountry.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/CO2_Emissions_sortedByYearAndCountry.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/World Energy Consumption (limited).csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/World Energy Consumption (limited).csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/World_Energy_Consumption_Full.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/World_Energy_Consumption_Full.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/transform_co2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transform_co2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,22 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;database.data.extractors.current.export.id&quot;: &quot;Excel (xlsx)&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/cathe/PycharmProjects/energyProject&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "Excel (xlsx)",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/cathe/PycharmProjects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\W0lle\Codes\datawarehouse\assets" />
@@ -98,6 +97,7 @@
       <workItem from="1709317753644" duration="385000" />
       <workItem from="1709318175336" duration="1004000" />
       <workItem from="1709500613954" duration="8068000" />
+      <workItem from="1709524570811" duration="2032000" />
     </task>
     <task id="LOCAL-00001" summary="Insertion des données de pollution dans fichier WEC (limited)">
       <option name="closed" value="true" />
@@ -147,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709501400345</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="renommer toutes les colonnes avec les unités pour tous les datasets">
+      <option name="closed" value="true" />
+      <created>1709524775503</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709524775503</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +178,7 @@
     <MESSAGE value="nettoyage fini des données taxes énergies" />
     <MESSAGE value="Tax_Energy fusionné avec dataset World Energy Consumption pour dataset final World_Energy_Consumption_Full.csv" />
     <MESSAGE value="suppression fichiers inutiles" />
-    <option name="LAST_COMMIT_MESSAGE" value="suppression fichiers inutiles" />
+    <MESSAGE value="renommer toutes les colonnes avec les unités pour tous les datasets" />
+    <option name="LAST_COMMIT_MESSAGE" value="renommer toutes les colonnes avec les unités pour tous les datasets" />
   </component>
 </project>
