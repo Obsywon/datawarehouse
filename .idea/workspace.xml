@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2786ce56-8417-4fd5-a4dc-fcd9a4339515" name="Changes" comment="mise à jour merge des datasets CO2 et wec (merge left) pour garder tous les années">
+    <list default="true" id="2786ce56-8417-4fd5-a4dc-fcd9a4339515" name="Changes" comment="création colonnes &quot;continent&quot; et &quot;region&quot;&#10;ajouter &quot;all_world&quot; pour avoir les données mondiales&#10;calculer les équivalents usd pour les taxes">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_27_2024_6_27_PM_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_27_2024_6_27_PM__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_27_2024_7_23_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_27_2024_7_23_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/World Energy Consumption (limited).csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/World Energy Consumption (limited).csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/World_Energy_Consumption_Full.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/World_Energy_Consumption_Full.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/World_Energy_Consumption_Reordered.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/World_Energy_Consumption_Reordered.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/transform_co2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transform_co2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +61,7 @@
     "database.data.extractors.current.export.id": "Excel (xlsx)",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/cathe/PycharmProjects",
+    "last_opened_file_path": "C:/Users/cathe/PycharmProjects/20240321",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,6 +103,9 @@
       <workItem from="1709318175336" duration="1004000" />
       <workItem from="1709500613954" duration="8068000" />
       <workItem from="1709524570811" duration="13059000" />
+      <workItem from="1709626901635" duration="1457000" />
+      <workItem from="1709814703214" duration="595000" />
+      <workItem from="1710953068755" duration="7238000" />
     </task>
     <task id="LOCAL-00001" summary="Insertion des données de pollution dans fichier WEC (limited)">
       <option name="closed" value="true" />
@@ -163,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709526706091</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="création colonnes &quot;continent&quot; et &quot;region&quot;&#10;ajouter &quot;all_world&quot; pour avoir les données mondiales&#10;calculer les équivalents usd pour les taxes">
+      <option name="closed" value="true" />
+      <created>1709628526139</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709628526139</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +204,7 @@
     <MESSAGE value="suppression fichiers inutiles" />
     <MESSAGE value="renommer toutes les colonnes avec les unités pour tous les datasets" />
     <MESSAGE value="mise à jour merge des datasets CO2 et wec (merge left) pour garder tous les années" />
-    <option name="LAST_COMMIT_MESSAGE" value="mise à jour merge des datasets CO2 et wec (merge left) pour garder tous les années" />
+    <MESSAGE value="création colonnes &quot;continent&quot; et &quot;region&quot;&#10;ajouter &quot;all_world&quot; pour avoir les données mondiales&#10;calculer les équivalents usd pour les taxes" />
+    <option name="LAST_COMMIT_MESSAGE" value="création colonnes &quot;continent&quot; et &quot;region&quot;&#10;ajouter &quot;all_world&quot; pour avoir les données mondiales&#10;calculer les équivalents usd pour les taxes" />
   </component>
 </project>
