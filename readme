@@ -3,7 +3,7 @@ Sources de données :
 * https://www.kaggle.com/code/gcmadhan/carbon-emission-by-country/input
 * https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption?resource=download
 * https://www.kaggle.com/datasets/elmoallistair/commodity-prices-19602021
-* 
+* https://climatedata.imf.org/datasets/3fb1ed30d3394574b3145246846023b1/explore
 
 Les fichiers de sorties sont dans ./output (World_Energy_Consumption_Reordered.csv => fichier final), et le fichier de travail sur Tableau se trouve dans ./tableau 
 
